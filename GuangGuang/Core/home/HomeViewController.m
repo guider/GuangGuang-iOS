@@ -35,9 +35,11 @@
 //
 
 #import "HomeViewController.h"
+#import "HomeCell.h"
 
 @interface HomeViewController () <UITableViewDataSource, UITableViewDelegate>
 @property(nonatomic, strong) UITableView *tableView;
+@property(nonatomic, strong) NSMutableArray *array;
 @end
 
 @implementation HomeViewController {
@@ -46,6 +48,7 @@
 
 - (void)viewDidLoad {
     [super viewDidLoad];
+
     self.tableView = [[UITableView alloc] initWithFrame:[UIScreen mainScreen].bounds];
     [self.view addSubview:self.tableView];
 
@@ -54,23 +57,36 @@
 
     self.tableView.rowHeight = 90;
     self.tableView.estimatedRowHeight = 90;
-    self.tableView.tag =100;
+    self.tableView.tag = 100;
 
 }
 
+- (NSMutableArray *)array {
+    if (!_array) {
+        _array = [NSMutableArray new];
+        for (int i = 0; i < 10; ++i) {
+            TModel *model = [TModel getInstance:@" san " and:[NSString stringWithFormat:@"%d", i] and:@" unknow"];
+            [_array addObject:model];
+        }
+
+    }
+
+    return _array;
+}
+
 - (NSInteger)tableView:(UITableView *)tableView numberOfRowsInSection:(NSInteger)section {
-    return 5;
+    return self.array.count;
 }
 
 - (UITableViewCell *)tableView:(UITableView *)tableView cellForRowAtIndexPath:(NSIndexPath *)indexPath {
     static NSString *identifier = @"cell_identifier";
-    UITableViewCell *cell = [tableView dequeueReusableCellWithIdentifier:identifier];
+    HomeCell *cell = [tableView dequeueReusableCellWithIdentifier:identifier];
     if (!cell) {
-        cell = [[UITableViewCell alloc] initWithStyle:UITableViewCellStyleDefault reuseIdentifier:identifier];
+        cell = [[HomeCell alloc] initWithStyle:UITableViewCellStyleDefault reuseIdentifier:identifier];
     }
-    cell.backgroundColor = [UIColor redColor];
-
-    cell.textLabel.text = @" hello iOS";
+    TModel * model=self.array[indexPath.row];
+    NSLog(@"%@",(model.description));
+    [cell model: self.array[indexPath.row]];
     return cell;
 }
 

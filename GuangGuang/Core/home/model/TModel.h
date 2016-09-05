@@ -44,7 +44,12 @@
 @property(nonatomic, copy) NSString *icon;
 
 
+- (instancetype)initWithDict:(NSDictionary *)dict;
 
--(instancetype) initWithDict:(NSDictionary *)dict;
-+(instancetype) getInstance:(NSDictionary *)dict;
+- (NSString *)description;
+
++ (instancetype)getInstance:(NSDictionary *)dict;
+
++ (instancetype)getInstance:(NSString *)name and:(NSString *)cloumn and:(NSString *)icon;
+
 @end

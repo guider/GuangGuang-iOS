@@ -1,0 +1,30 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "4E3E190CCC45EA8DCEAE0357067FA8A126AEF341",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "E27C16FD5BE5D84D0DCAB82ACA09A9519AD6CB0C" : 0,
+    "4E3E190CCC45EA8DCEAE0357067FA8A126AEF341" : 0
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "53B6B67A-6DFF-4DB5-A78B-444E70772784",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "E27C16FD5BE5D84D0DCAB82ACA09A9519AD6CB0C" : "..\/github\/iOS-Category",
+    "4E3E190CCC45EA8DCEAE0357067FA8A126AEF341" : "GuangGuang\/"
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "GuangGuang",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "GuangGuang.xcodeproj",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/guider\/GuangGuang-iOS",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "4E3E190CCC45EA8DCEAE0357067FA8A126AEF341"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/kazamihayato\/iOS-Category.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "E27C16FD5BE5D84D0DCAB82ACA09A9519AD6CB0C"
+    }
+  ]
+}
