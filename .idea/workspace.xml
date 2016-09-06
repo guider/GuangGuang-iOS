@@ -2,22 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="272018c0-db88-4b6e-a450-55401e42a7cd" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/GuangGuang/Core/api/HttpManager.h" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/GuangGuang/Core/api/HttpManager.m" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/GuangGuang.iml" afterPath="$PROJECT_DIR$/.idea/GuangGuang.iml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/GuangGuang.xcodeproj/project.pbxproj" afterPath="$PROJECT_DIR$/GuangGuang.xcodeproj/project.pbxproj" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Podfile" afterPath="$PROJECT_DIR$/Podfile" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Podfile.lock" afterPath="$PROJECT_DIR$/Podfile.lock" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Pods/Manifest.lock" afterPath="$PROJECT_DIR$/Pods/Manifest.lock" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Pods/Pods.xcodeproj/project.pbxproj" afterPath="$PROJECT_DIR$/Pods/Pods.xcodeproj/project.pbxproj" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Pods/Pods.xcodeproj/xcuserdata/apple.xcuserdatad/xcschemes/Pods-GuangGuang.xcscheme" afterPath="$PROJECT_DIR$/Pods/Pods.xcodeproj/xcuserdata/apple.xcuserdatad/xcschemes/Pods-GuangGuang.xcscheme" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Pods/Pods.xcodeproj/xcuserdata/apple.xcuserdatad/xcschemes/xcschememanagement.plist" afterPath="$PROJECT_DIR$/Pods/Pods.xcodeproj/xcuserdata/apple.xcuserdatad/xcschemes/xcschememanagement.plist" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Pods/Target Support Files/Masonry/Masonry.xcconfig" afterPath="$PROJECT_DIR$/Pods/Target Support Files/Masonry/Masonry.xcconfig" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Pods/Target Support Files/Pods-GuangGuang/Pods-GuangGuang-acknowledgements.markdown" afterPath="$PROJECT_DIR$/Pods/Target Support Files/Pods-GuangGuang/Pods-GuangGuang-acknowledgements.markdown" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Pods/Target Support Files/Pods-GuangGuang/Pods-GuangGuang-acknowledgements.plist" afterPath="$PROJECT_DIR$/Pods/Target Support Files/Pods-GuangGuang/Pods-GuangGuang-acknowledgements.plist" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Pods/Target Support Files/Pods-GuangGuang/Pods-GuangGuang.debug.xcconfig" afterPath="$PROJECT_DIR$/Pods/Target Support Files/Pods-GuangGuang/Pods-GuangGuang.debug.xcconfig" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Pods/Target Support Files/Pods-GuangGuang/Pods-GuangGuang.release.xcconfig" afterPath="$PROJECT_DIR$/Pods/Target Support Files/Pods-GuangGuang/Pods-GuangGuang.release.xcconfig" />
     </list>
     <ignored path="GuangGuang.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -345,12 +330,12 @@
       <workItem from="1472885772169" duration="3775000" />
       <workItem from="1472890953266" duration="16523000" />
       <workItem from="1473063583655" duration="3180000" />
-      <workItem from="1473068171481" duration="11432000" />
+      <workItem from="1473068171481" duration="11534000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="34910000" />
+    <option name="totallyTimeSpent" value="35012000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
