@@ -2,98 +2,22 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="272018c0-db88-4b6e-a450-55401e42a7cd" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/GuangGuang/Core/base/category/NSArray+Category.h" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/GuangGuang/Core/base/category/NSArray+Category.m" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/GuangGuang/Core/base/category/NSAttributedString+Category.h" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/GuangGuang/Core/base/category/NSAttributedString+Category.m" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/GuangGuang/Core/base/category/NSData+Category.h" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/GuangGuang/Core/base/category/NSData+Category.m" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/GuangGuang/Core/base/category/NSData+CommonCryptor.h" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/GuangGuang/Core/base/category/NSData+CommonCryptor.m" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/GuangGuang/Core/base/category/NSDictionary+Category.h" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/GuangGuang/Core/base/category/NSDictionary+Category.m" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/GuangGuang/Core/base/category/NSMutableArray+Category.h" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/GuangGuang/Core/base/category/NSMutableArray+Category.m" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/GuangGuang/Core/base/category/NSMutableAttributedString+Category.h" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/GuangGuang/Core/base/category/NSMutableAttributedString+Category.m" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/GuangGuang/Core/base/category/NSMutableDictionary+Category.h" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/GuangGuang/Core/base/category/NSMutableDictionary+Category.m" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/GuangGuang/Core/base/category/NSString+Category.h" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/GuangGuang/Core/base/category/NSString+Category.m" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/GuangGuang/Core/base/category/NSString+DisplayTime.h" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/GuangGuang/Core/base/category/NSString+DisplayTime.m" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/GuangGuang/Core/base/category/NSString+MD5.h" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/GuangGuang/Core/base/category/NSString+MD5.m" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/GuangGuang/Core/base/category/NSString+Predicate.h" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/GuangGuang/Core/base/category/NSString+Predicate.m" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/GuangGuang/Core/base/category/NSTimer+Category.h" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/GuangGuang/Core/base/category/NSTimer+Category.m" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/GuangGuang/Core/base/category/UIButton+Category.h" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/GuangGuang/Core/base/category/UIButton+Category.m" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/GuangGuang/Core/base/category/UIColor+BGHexColor.h" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/GuangGuang/Core/base/category/UIColor+BGHexColor.m" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/GuangGuang/Core/base/category/UIControl+ResponseTime.h" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/GuangGuang/Core/base/category/UIControl+ResponseTime.m" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/GuangGuang/Core/base/category/UIImage+Category.h" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/GuangGuang/Core/base/category/UIImage+Category.m" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/GuangGuang/Core/base/category/UIMenuItem+Category.h" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/GuangGuang/Core/base/category/UIMenuItem+Category.m" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/GuangGuang/Core/base/category/UINavigationController+FDFullscreenPopGesture.h" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/GuangGuang/Core/base/category/UINavigationController+FDFullscreenPopGesture.m" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/GuangGuang/Core/base/category/UITableViewCell+CellAnimation.h" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/GuangGuang/Core/base/category/UITableViewCell+CellAnimation.m" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/GuangGuang/Core/base/category/UIView+Animation.h" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/GuangGuang/Core/base/category/UIView+Animation.m" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/GuangGuang/Core/base/category/UIView+BGFrame.h" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/GuangGuang/Core/base/category/UIView+BGFrame.m" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/GuangGuang/Core/base/category/UIView+Category.h" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/GuangGuang/Core/base/category/UIView+Category.m" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/GuangGuang/Core/base/category2/NSDate+Common.h" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/GuangGuang/Core/base/category2/NSDate+Common.m" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/GuangGuang/Core/base/category2/NSObject+Info.h" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/GuangGuang/Core/base/category2/NSObject+Info.m" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/GuangGuang/Core/base/category2/NSString+Common.h" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/GuangGuang/Core/base/category2/NSString+Common.m" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/GuangGuang/Core/base/category2/UIAlertController+Common.h" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/GuangGuang/Core/base/category2/UIAlertController+Common.m" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/GuangGuang/Core/base/category2/UIBarButtonItem+Custom.h" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/GuangGuang/Core/base/category2/UIBarButtonItem+Custom.m" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/GuangGuang/Core/base/category2/UIButton+CountDown.h" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/GuangGuang/Core/base/category2/UIButton+CountDown.m" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/GuangGuang/Core/base/category2/UIColor+Hex.h" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/GuangGuang/Core/base/category2/UIColor+Hex.m" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/GuangGuang/Core/base/category2/UIImage+Common.h" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/GuangGuang/Core/base/category2/UIImage+Common.m" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/GuangGuang/Core/base/category2/UIImage+ImageEffects.h" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/GuangGuang/Core/base/category2/UIImage+ImageEffects.m" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/GuangGuang/Core/base/category2/UIImageView+QNCache.h" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/GuangGuang/Core/base/category2/UIImageView+QNCache.m" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/GuangGuang/Core/base/category2/UILabel+Common.h" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/GuangGuang/Core/base/category2/UILabel+Common.m" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/GuangGuang/Core/base/category2/UINavigationBar+Awesome.h" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/GuangGuang/Core/base/category2/UINavigationBar+Awesome.m" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/GuangGuang/Core/base/category2/UIView+Animation.h" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/GuangGuang/Core/base/category2/UIView+Animation.m" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/GuangGuang/Core/base/category2/UIView+Extension.h" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/GuangGuang/Core/base/category2/UIView+Extension.m" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/GuangGuang/Core/base/category2/UIView+rn_Screenshot.h" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/GuangGuang/Core/base/category2/UIView+rn_Screenshot.m" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/GuangGuang/Core/base/category2/UIViewController+Common.h" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/GuangGuang/Core/base/category2/UIViewController+Common.m" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/GuangGuang/Core/base/cell/BaseCell.h" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/GuangGuang/Core/base/cell/BaseCell.m" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/GuangGuang/Core/home/cell/HomeCell.h" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/GuangGuang/Core/home/cell/HomeCell.m" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/GuangGuang/Core/base/BaseViewController.h" afterPath="$PROJECT_DIR$/GuangGuang/Core/base/category2/BaseViewController.h" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/GuangGuang/Core/base/BaseViewController.m" afterPath="$PROJECT_DIR$/GuangGuang/Core/base/category2/BaseViewController.m" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/GuangGuang.xcodeproj/project.xcworkspace/xcuserdata/apple.xcuserdatad/UserInterfaceState.xcuserstate" afterPath="$PROJECT_DIR$/GuangGuang.xcodeproj/project.xcworkspace/xcuserdata/apple.xcuserdatad/UserInterfaceState.xcuserstate" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/GuangGuang/Core/api/HttpManager.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/GuangGuang/Core/api/HttpManager.m" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/GuangGuang.iml" afterPath="$PROJECT_DIR$/.idea/GuangGuang.iml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/xcode.xml" afterPath="$PROJECT_DIR$/.idea/xcode.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/GuangGuang.xcodeproj/project.pbxproj" afterPath="$PROJECT_DIR$/GuangGuang.xcodeproj/project.pbxproj" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/GuangGuang/Core/home/HomeViewController.m" afterPath="$PROJECT_DIR$/GuangGuang/Core/home/HomeViewController.m" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/GuangGuang/Core/home/model/TModel.h" afterPath="$PROJECT_DIR$/GuangGuang/Core/home/model/TModel.h" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/GuangGuang/Core/home/model/TModel.m" afterPath="$PROJECT_DIR$/GuangGuang/Core/home/model/TModel.m" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Podfile" afterPath="$PROJECT_DIR$/Podfile" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Podfile.lock" afterPath="$PROJECT_DIR$/Podfile.lock" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Pods/Manifest.lock" afterPath="$PROJECT_DIR$/Pods/Manifest.lock" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Pods/Pods.xcodeproj/project.pbxproj" afterPath="$PROJECT_DIR$/Pods/Pods.xcodeproj/project.pbxproj" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Pods/Pods.xcodeproj/xcuserdata/apple.xcuserdatad/xcschemes/Pods-GuangGuang.xcscheme" afterPath="$PROJECT_DIR$/Pods/Pods.xcodeproj/xcuserdata/apple.xcuserdatad/xcschemes/Pods-GuangGuang.xcscheme" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Pods/Pods.xcodeproj/xcuserdata/apple.xcuserdatad/xcschemes/xcschememanagement.plist" afterPath="$PROJECT_DIR$/Pods/Pods.xcodeproj/xcuserdata/apple.xcuserdatad/xcschemes/xcschememanagement.plist" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Pods/Target Support Files/Masonry/Masonry.xcconfig" afterPath="$PROJECT_DIR$/Pods/Target Support Files/Masonry/Masonry.xcconfig" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Pods/Target Support Files/Pods-GuangGuang/Pods-GuangGuang-acknowledgements.markdown" afterPath="$PROJECT_DIR$/Pods/Target Support Files/Pods-GuangGuang/Pods-GuangGuang-acknowledgements.markdown" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Pods/Target Support Files/Pods-GuangGuang/Pods-GuangGuang-acknowledgements.plist" afterPath="$PROJECT_DIR$/Pods/Target Support Files/Pods-GuangGuang/Pods-GuangGuang-acknowledgements.plist" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Pods/Target Support Files/Pods-GuangGuang/Pods-GuangGuang.debug.xcconfig" afterPath="$PROJECT_DIR$/Pods/Target Support Files/Pods-GuangGuang/Pods-GuangGuang.debug.xcconfig" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Pods/Target Support Files/Pods-GuangGuang/Pods-GuangGuang.release.xcconfig" afterPath="$PROJECT_DIR$/Pods/Target Support Files/Pods-GuangGuang/Pods-GuangGuang.release.xcconfig" />
     </list>
     <ignored path="GuangGuang.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -113,13 +37,35 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="HomeViewController.m" pinned="false" current-in-tab="true">
+      <file leaf-file-name="HomeViewController.m" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/GuangGuang/Core/home/HomeViewController.m">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="408">
-              <caret line="79" column="0" selection-start-line="79" selection-start-column="0" selection-end-line="79" selection-end-column="0" />
+            <state relative-caret-position="888">
+              <caret line="94" column="1" selection-start-line="94" selection-start-column="1" selection-end-line="94" selection-end-column="1" />
               <folding>
                 <element signature="e#1083#1113#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="HttpManager.m" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/GuangGuang/Core/api/HttpManager.m">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="570">
+              <caret line="38" column="0" selection-start-line="38" selection-start-column="0" selection-end-line="38" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="HttpManager.h" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/GuangGuang/Core/api/HttpManager.h">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="614">
+              <caret line="49" column="41" selection-start-line="49" selection-start-column="41" selection-end-line="49" selection-end-column="41" />
+              <folding>
+                <element signature="e#1083#1116#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -128,11 +74,19 @@
       <file leaf-file-name="HomeCell.m" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/GuangGuang/Core/home/cell/HomeCell.m">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-42">
-              <caret line="70" column="18" selection-start-line="70" selection-start-column="18" selection-end-line="70" selection-end-column="18" />
-              <folding>
-                <element signature="e#1083#1103#0" expanded="true" />
-              </folding>
+            <state relative-caret-position="15">
+              <caret line="70" column="0" selection-start-line="70" selection-start-column="0" selection-end-line="71" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Podfile" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Podfile">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="135">
+              <caret line="9" column="3" selection-start-line="9" selection-start-column="3" selection-end-line="9" selection-end-column="3" />
+              <folding />
             </state>
           </provider>
         </entry>
@@ -166,6 +120,8 @@
         <option value="$PROJECT_DIR$/GuangGuang/Core/home/HomeViewController.m" />
         <option value="$PROJECT_DIR$/GuangGuang/Core/home/model/TModel.m" />
         <option value="$PROJECT_DIR$/GuangGuang/Core/home/cell/HomeCell.m" />
+        <option value="$PROJECT_DIR$/Podfile" />
+        <option value="$PROJECT_DIR$/GuangGuang/Core/api/HttpManager.h" />
       </list>
     </option>
   </component>
@@ -177,7 +133,8 @@
   </component>
   <component name="OCFindUsagesOptions" text="true" ivars="false" properties="true" derivedClasses="false" />
   <component name="ProjectFrameBounds">
-    <option name="y" value="23" />
+    <option name="x" value="4" />
+    <option name="y" value="24" />
     <option name="width" value="1440" />
     <option name="height" value="873" />
   </component>
@@ -240,6 +197,16 @@
               <option name="myItemId" value="GuangGuang" />
               <option name="myItemType" value="com.jetbrains.cidr.projectView.XcodeProjectNode" />
             </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" />
+              <option name="myItemType" value="com.jetbrains.cidr.projectView.XcodeRootNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="GuangGuang" />
+              <option name="myItemType" value="com.jetbrains.cidr.projectView.XcodeProjectNode" />
+            </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="Products" />
               <option name="myItemType" value="com.jetbrains.cidr.projectView.XcodeViewNode" />
@@ -254,16 +221,6 @@
               <option name="myItemId" value="GuangGuang" />
               <option name="myItemType" value="com.jetbrains.cidr.projectView.XcodeProjectNode" />
             </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" />
-              <option name="myItemType" value="com.jetbrains.cidr.projectView.XcodeRootNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="GuangGuang" />
-              <option name="myItemType" value="com.jetbrains.cidr.projectView.XcodeProjectNode" />
-            </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="GuangGuang" />
               <option name="myItemType" value="com.jetbrains.cidr.projectView.XcodeViewNode" />
@@ -305,33 +262,7 @@
               <option name="myItemType" value="com.jetbrains.cidr.projectView.XcodeViewNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="base" />
-              <option name="myItemType" value="com.jetbrains.cidr.projectView.XcodeViewNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" />
-              <option name="myItemType" value="com.jetbrains.cidr.projectView.XcodeRootNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="GuangGuang" />
-              <option name="myItemType" value="com.jetbrains.cidr.projectView.XcodeProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="GuangGuang" />
-              <option name="myItemType" value="com.jetbrains.cidr.projectView.XcodeViewNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Core" />
-              <option name="myItemType" value="com.jetbrains.cidr.projectView.XcodeViewNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="base" />
-              <option name="myItemType" value="com.jetbrains.cidr.projectView.XcodeViewNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="category2" />
+              <option name="myItemId" value="api" />
               <option name="myItemType" value="com.jetbrains.cidr.projectView.XcodeViewNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -342,8 +273,9 @@
   <component name="PropertiesComponent">
     <property name="OBJC.PRESERVED_TARGET_SELECTION" value="GuangGuang" />
     <property name="js-jscs-nodeInterpreter" value="$USER_HOME$/.nvm/versions/node/v5.10.1/bin/node" />
-    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+    <property name="settings.editor.selected.configurable" value="CocoaPods" />
     <property name="settings.editor.splitter.proportion" value="0.2" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../github/YYQ2/YYQ2.xcworkspace" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
@@ -413,12 +345,12 @@
       <workItem from="1472885772169" duration="3775000" />
       <workItem from="1472890953266" duration="16523000" />
       <workItem from="1473063583655" duration="3180000" />
-      <workItem from="1473068171481" duration="3727000" />
+      <workItem from="1473068171481" duration="11432000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="27205000" />
+    <option name="totallyTimeSpent" value="34910000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -430,8 +362,8 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="23" width="1440" height="873" extended-state="6" />
-    <editor active="true" />
+    <frame x="4" y="24" width="1440" height="873" extended-state="6" />
+    <editor active="false" />
     <layout>
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3290653" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3290653" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
@@ -439,7 +371,7 @@
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3290653" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3290653" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3290653" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.3290653" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24947146" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
@@ -472,16 +404,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/GuangGuang/Core/ParentTabBarViewController.h">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="555">
-          <caret line="37" column="22" selection-start-line="37" selection-start-column="22" selection-end-line="37" selection-end-column="22" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/GuangGuang/icon/icon_all_xhdpi.png" />
-    <entry file="file://$PROJECT_DIR$/GuangGuang/icon/icon_baby_xhdpi.png" />
     <entry file="file://$PROJECT_DIR$/GuangGuang/icon/tab_homepage_xhdpi.png" />
     <entry file="file://$PROJECT_DIR$/GuangGuang/icon/icon_appliances_xhdpi.png" />
     <entry file="file://$PROJECT_DIR$/GuangGuang/icon/icon_amazon_xhdpi.png" />
@@ -785,22 +707,46 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/GuangGuang/Core/home/cell/HomeCell.m">
+    <entry file="file://$PROJECT_DIR$/GuangGuang/Core/home/HomeViewController.m">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-42">
-          <caret line="70" column="18" selection-start-line="70" selection-start-column="18" selection-end-line="70" selection-end-column="18" />
+        <state relative-caret-position="888">
+          <caret line="94" column="1" selection-start-line="94" selection-start-column="1" selection-end-line="94" selection-end-column="1" />
           <folding>
-            <element signature="e#1083#1103#0" expanded="true" />
+            <element signature="e#1083#1113#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/GuangGuang/Core/home/HomeViewController.m">
+    <entry file="file://$PROJECT_DIR$/GuangGuang/Core/home/cell/HomeCell.m">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="408">
-          <caret line="79" column="0" selection-start-line="79" selection-start-column="0" selection-end-line="79" selection-end-column="0" />
+        <state relative-caret-position="15">
+          <caret line="70" column="0" selection-start-line="70" selection-start-column="0" selection-end-line="71" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Podfile">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="9" column="3" selection-start-line="9" selection-start-column="3" selection-end-line="9" selection-end-column="3" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/GuangGuang/Core/api/HttpManager.m">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="570">
+          <caret line="38" column="0" selection-start-line="38" selection-start-column="0" selection-end-line="38" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/GuangGuang/Core/api/HttpManager.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="614">
+          <caret line="49" column="41" selection-start-line="49" selection-start-column="41" selection-end-line="49" selection-end-column="41" />
           <folding>
-            <element signature="e#1083#1113#0" expanded="true" />
+            <element signature="e#1083#1116#0" expanded="true" />
           </folding>
         </state>
       </provider>

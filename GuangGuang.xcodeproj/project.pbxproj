@@ -54,6 +54,7 @@
 		58B8372E194870E0E83E263F /* tabbar_abroad_selected@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 58B837E546F39B1A00E4540E /* tabbar_abroad_selected@2x.png */; };
 		58B8379F5957F45FFCE63AAB /* navtitle_up@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 58B83A1DD5868C327FBC6BB2 /* navtitle_up@2x.png */; };
 		58B837C84F8C19ABD7DA62F9 /* defaullt_thumb.png in Resources */ = {isa = PBXBuildFile; fileRef = 58B831C39E1D5E7D02EEA543 /* defaullt_thumb.png */; };
+		58B837E44055B5AD81C5CFAC /* Podfile in Resources */ = {isa = PBXBuildFile; fileRef = 58B830963D1297EF3A02F152 /* Podfile */; };
 		58B837E8861475D7863BFBE3 /* iconall@3x.png in Resources */ = {isa = PBXBuildFile; fileRef = 58B83BC5B53A97FEADE1A34D /* iconall@3x.png */; };
 		58B838186E40652CDF1E218C /* transdot@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 58B8375A4ACDF21AAC0F395B /* transdot@2x.png */; };
 		58B8383D9FFB27770E7A0521 /* iconautomobile@3x.png in Resources */ = {isa = PBXBuildFile; fileRef = 58B835132728ECC9ACC02D9D /* iconautomobile@3x.png */; };
@@ -114,6 +115,7 @@
 		58B83F4E1A83EC905BD654E6 /* navtitle_abroad_up.png in Resources */ = {isa = PBXBuildFile; fileRef = 58B832BA16FDE832D950045B /* navtitle_abroad_up.png */; };
 		58B83F67AE5BBA5AD4021CB8 /* navtitle_rank.png in Resources */ = {isa = PBXBuildFile; fileRef = 58B83E8B088B3BB77C5D1AF9 /* navtitle_rank.png */; };
 		58B83F902733EB535C989196 /* tabbar_abroad_selected.png in Resources */ = {isa = PBXBuildFile; fileRef = 58B8357E81AEA1214F59BC46 /* tabbar_abroad_selected.png */; };
+		58B83FD1DB2005235D57390B /* HttpManager.m in Sources */ = {isa = PBXBuildFile; fileRef = 58B834F87D7E9532CDDF94B5 /* HttpManager.m */; };
 		58B83FDCDCFFFDC272B826D3 /* search_icon@3x.png in Resources */ = {isa = PBXBuildFile; fileRef = 58B833A6AE0F7BEC63FF80C2 /* search_icon@3x.png */; };
 		58B83FEFA977A07DBEEEE5AA /* hot_icon.png in Resources */ = {isa = PBXBuildFile; fileRef = 58B831A14BB4C4C70C3FC9AC /* hot_icon.png */; };
 		5B81392B89693D5710EF8B13 /* libPods-GuangGuang.a in Frameworks */ = {isa = PBXBuildFile; fileRef = 824F87754E93E08C88304B31 /* libPods-GuangGuang.a */; };
@@ -206,6 +208,7 @@
 		58B8300E5422F56989E87F9F /* tabbar_rank_selected@3x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "tabbar_rank_selected@3x.png"; sourceTree = "<group>"; };
 		58B8300FF4F720C9287AD988 /* tabbar_abroad@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "tabbar_abroad@2x.png"; sourceTree = "<group>"; };
 		58B830940176DCF31301E0BD /* UIViewController+Common.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = "UIViewController+Common.m"; sourceTree = "<group>"; };
+		58B830963D1297EF3A02F152 /* Podfile */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = Podfile; sourceTree = "<group>"; };
 		58B830B3A74AFEBF1F1E708C /* tabbar_home_selected@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "tabbar_home_selected@2x.png"; sourceTree = "<group>"; };
 		58B830B6E4A342C01AAA0EDB /* tabbar_home.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = tabbar_home.png; sourceTree = "<group>"; };
 		58B830E7079529EB582B6851 /* iconzdirect@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "iconzdirect@2x.png"; sourceTree = "<group>"; };
@@ -250,6 +253,7 @@
 		58B834E3BF89F12A574ED8F0 /* ForeignViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = ForeignViewController.h; sourceTree = "<group>"; };
 		58B834EC1978FFCF01617422 /* iOS-Category.xcodeproj */ = {isa = PBXFileReference; lastKnownFileType = "wrapper.pb-project"; name = "iOS-Category.xcodeproj"; path = "GuangGuang/Core/base/iOS-Category/iOS-Category.xcodeproj"; sourceTree = "<group>"; };
 		58B834F58C889073BB68D9EF /* UILabel+Common.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = "UILabel+Common.h"; sourceTree = "<group>"; };
+		58B834F87D7E9532CDDF94B5 /* HttpManager.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = HttpManager.m; sourceTree = "<group>"; };
 		58B83509AAC377D0C4048862 /* tabbar_rank@3x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "tabbar_rank@3x.png"; sourceTree = "<group>"; };
 		58B83512A2A077B211552B08 /* UIView+rn_Screenshot.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = "UIView+rn_Screenshot.h"; sourceTree = "<group>"; };
 		58B835132728ECC9ACC02D9D /* iconautomobile@3x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "iconautomobile@3x.png"; sourceTree = "<group>"; };
@@ -318,6 +322,7 @@
 		58B83C4B1C9CD48C0183D83D /* iconamazon@3x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "iconamazon@3x.png"; sourceTree = "<group>"; };
 		58B83C5D3F99B7E515709080 /* pch.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = pch.h; sourceTree = "<group>"; };
 		58B83C72B4C49307DFFC6ED5 /* HotViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = HotViewController.m; sourceTree = "<group>"; };
+		58B83CB7004E5AB45278EC97 /* HttpManager.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = HttpManager.h; sourceTree = "<group>"; };
 		58B83CB989B54CEA3A591ECF /* BaseCell.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = BaseCell.h; sourceTree = "<group>"; };
 		58B83CC2DAFCD0ECEAC5C64C /* ParentTabBarViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = ParentTabBarViewController.h; sourceTree = "<group>"; };
 		58B83CC49E1F57B1E37C268D /* tabbar_rank.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = tabbar_rank.png; sourceTree = "<group>"; };
@@ -485,6 +490,7 @@
 				58B834EC1978FFCF01617422 /* iOS-Category.xcodeproj */,
 				E70C90CBE3516FB297B621DD /* Pods */,
 				86CFAE57F0C4357E3E0A3D6E /* Frameworks */,
+				58B830963D1297EF3A02F152 /* Podfile */,
 			);
 			sourceTree = "<group>";
 		};
@@ -551,6 +557,7 @@
 				58B83DE5976CADDFF744E222 /* hot */,
 				58B83DBB1824EC0AE029C16E /* base */,
 				58B837979B91B058684E0EE5 /* me */,
+				58B835771C80E68911499ACE /* api */,
 			);
 			path = Core;
 			sourceTree = "<group>";
@@ -571,6 +578,15 @@
 				58B83A3CE29A07C7FCFB0B84 /* TModel.h */,
 			);
 			path = model;
+			sourceTree = "<group>";
+		};
+		58B835771C80E68911499ACE /* api */ = {
+			isa = PBXGroup;
+			children = (
+				58B834F87D7E9532CDDF94B5 /* HttpManager.m */,
+				58B83CB7004E5AB45278EC97 /* HttpManager.h */,
+			);
+			path = api;
 			sourceTree = "<group>";
 		};
 		58B8360C2EF02BC7B3BF3FBA /* foreign */ = {
@@ -973,6 +989,7 @@
 				58B83E3213A693BF3410B732 /* iconall@2x.png in Resources */,
 				58B83EA7D00126487437289C /* navtitle_home_up.png in Resources */,
 				58B8372E194870E0E83E263F /* tabbar_abroad_selected@2x.png in Resources */,
+				58B837E44055B5AD81C5CFAC /* Podfile in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -1035,7 +1052,7 @@
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 			shellPath = /bin/sh;
-			shellScript = "diff \"${PODS_ROOT}/../Podfile.lock\" \"${PODS_ROOT}/Manifest.lock\" > /dev/null\nif [[ $? != 0 ]] ; then\n    cat << EOM\nerror: The sandbox is not in sync with the Podfile.lock. Run 'pod install' or update your CocoaPods installation.\nEOM\n    exit 1\nfi\n";
+			shellScript = "diff \"${PODS_ROOT}/../Podfile.lock\" \"${PODS_ROOT}/Manifest.lock\" > /dev/null\nif [ $? != 0 ] ; then\n    # print error to STDERR\n    echo \"error: The sandbox is not in sync with the Podfile.lock. Run 'pod install' or update your CocoaPods installation.\" >&2\n    exit 1\nfi\n";
 			showEnvVarsInLog = 0;
 		};
 /* End PBXShellScriptBuildPhase section */
@@ -1057,6 +1074,7 @@
 				58B83BAC8AB84DABFF5E1759 /* HomeCell.m in Sources */,
 				58B83E17FD0FBAB4CAE58018 /* BaseCell.m in Sources */,
 				58B8398A6AA6EA465BE17A04 /* BaseViewController.m in Sources */,
+				58B83FD1DB2005235D57390B /* HttpManager.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
