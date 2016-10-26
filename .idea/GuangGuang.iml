@@ -11,47 +11,151 @@
       <sourceFolder url="file://$MODULE_DIR$/GuangGuang/Assets.xcassets" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/GuangGuang/GuangGuang.xcdatamodeld/GuangGuang.xcdatamodel" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/GuangGuang/main.m" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/GuangGuang/pch.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/GuangGuang/Info.plist" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/GuangGuang/Core/home/HomeViewController.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/GuangGuang/Core/home/model/TModel.m" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/GuangGuang/Core/home/model/TModel.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/GuangGuang/Core/home/cell/HomeCell.m" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/GuangGuang/Core/home/cell/HomeCell.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/GuangGuang/Core/home/HomeViewController.m" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/GuangGuang/Core/ParentTabBarViewController.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/GuangGuang/Core/api/HttpManager.m" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/GuangGuang/Core/api/HttpManager.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/GuangGuang/Core/me/MeViewController.m" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/GuangGuang/Core/me/MeViewController.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/GuangGuang/Core/AppDelegate.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/GuangGuang/Core/base/cell/BaseCell.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/GuangGuang/Core/base/cell/BaseCell.m" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/GuangGuang/Core/base/category/UIView+BGFrame.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/GuangGuang/Core/base/category/UINavigationController+FDFullscreenPopGesture.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/GuangGuang/Core/base/category/UIButton+Category.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/GuangGuang/Core/base/category/UIMenuItem+Category.m" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/GuangGuang/Core/base/category/NSData+Category.m" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/GuangGuang/Core/base/category/NSMutableDictionary+Category.m" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/GuangGuang/Core/base/category/NSString+MD5.m" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/GuangGuang/Core/base/category/UIView+Category.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/GuangGuang/Core/base/category/NSArray+Category.m" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/GuangGuang/Core/base/category/NSData+Category.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/GuangGuang/Core/base/category/NSMutableDictionary+Category.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/GuangGuang/Core/base/category/NSString+MD5.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/GuangGuang/Core/base/category/UIView+Animation.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/GuangGuang/Core/base/category/NSArray+Category.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/GuangGuang/Core/base/category/UIImage+Category.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/GuangGuang/Core/base/category/NSAttributedString+Category.m" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/GuangGuang/Core/base/category/NSDictionary+Category.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/GuangGuang/Core/base/category/NSAttributedString+Category.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/GuangGuang/Core/base/category/UITableViewCell+CellAnimation.m" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/GuangGuang/Core/base/category/UITableViewCell+CellAnimation.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/GuangGuang/Core/base/category/NSString+Category.m" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/GuangGuang/Core/base/category/NSTimer+Category.m" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/GuangGuang/Core/base/category/NSString+Category.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/GuangGuang/Core/base/category/NSData+CommonCryptor.m" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/GuangGuang/Core/base/category/NSTimer+Category.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/GuangGuang/Core/base/category/UIMenuItem+Category.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/GuangGuang/Core/base/category/NSData+CommonCryptor.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/GuangGuang/Core/base/category/NSMutableAttributedString+Category.m" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/GuangGuang/Core/base/category/UIImage+Category.m" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/GuangGuang/Core/base/category/UIColor+BGHexColor.m" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/GuangGuang/Core/base/category/NSMutableAttributedString+Category.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/GuangGuang/Core/base/category/NSString+DisplayTime.m" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/GuangGuang/Core/base/category/UIControl+ResponseTime.m" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/GuangGuang/Core/base/category/NSString+Predicate.m" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/GuangGuang/Core/base/category/NSString+DisplayTime.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/GuangGuang/Core/base/category/UIControl+ResponseTime.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/GuangGuang/Core/base/category/NSString+Predicate.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/GuangGuang/Core/base/category/UIView+Category.m" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/GuangGuang/Core/base/category/NSMutableArray+Category.m" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/GuangGuang/Core/base/category/UIButton+Category.m" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/GuangGuang/Core/base/category/UIColor+BGHexColor.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/GuangGuang/Core/base/category/NSMutableArray+Category.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/GuangGuang/Core/base/category/UIView+Animation.m" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/GuangGuang/Core/base/category/UIView+BGFrame.m" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/GuangGuang/Core/base/category/UINavigationController+FDFullscreenPopGesture.m" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/GuangGuang/Core/base/category/NSDictionary+Category.m" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/GuangGuang/Core/base/iOS-Category/iOS-Category.xcodeproj" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/GuangGuang/Core/base/BaseViewController.m" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/GuangGuang/Core/base/category2/UIButton+CountDown.m" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/GuangGuang/Core/base/category2/NSString+Common.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/GuangGuang/Core/base/category2/UIButton+CountDown.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/GuangGuang/Core/base/category2/UIViewController+Common.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/GuangGuang/Core/base/category2/UIView+Animation.m" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/GuangGuang/Core/base/category2/UIViewController+Common.m" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/GuangGuang/Core/base/category2/UIView+rn_Screenshot.m" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/GuangGuang/Core/base/category2/UIView+Animation.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/GuangGuang/Core/base/category2/UIBarButtonItem+Custom.m" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/GuangGuang/Core/base/category2/UIView+rn_Screenshot.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/GuangGuang/Core/base/category2/UIBarButtonItem+Custom.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/GuangGuang/Core/base/category2/UIImage+Common.m" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/GuangGuang/Core/base/category2/UIImage+Common.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/GuangGuang/Core/base/category2/UIColor+Hex.m" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/GuangGuang/Core/base/category2/NSDate+Common.m" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/GuangGuang/Core/base/category2/NSObject+Info.m" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/GuangGuang/Core/base/category2/UILabel+Common.m" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/GuangGuang/Core/base/category2/UIColor+Hex.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/GuangGuang/Core/base/category2/NSDate+Common.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/GuangGuang/Core/base/category2/UIImage+ImageEffects.m" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/GuangGuang/Core/base/category2/UINavigationBar+Awesome.m" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/GuangGuang/Core/base/category2/UILabel+Common.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/GuangGuang/Core/base/category2/UIAlertController+Common.m" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/GuangGuang/Core/base/category2/UIImage+ImageEffects.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/GuangGuang/Core/base/category2/UINavigationBar+Awesome.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/GuangGuang/Core/base/category2/UIAlertController+Common.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/GuangGuang/Core/base/category2/UIView+Extension.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/GuangGuang/Core/base/category2/UIView+Extension.m" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/GuangGuang/Core/base/category2/UIImageView+QNCache.m" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/GuangGuang/Core/base/category2/UIImageView+QNCache.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/GuangGuang/Core/base/category2/NSObject+Info.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/GuangGuang/Core/base/category2/NSString+Common.m" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/GuangGuang/Core/base/BaseViewController.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/GuangGuang/Core/hot/HotViewController.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/GuangGuang/Core/hot/HotViewController.m" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/GuangGuang/Core/foreign/ForeignViewController.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/GuangGuang/Core/foreign/ForeignViewController.m" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/GuangGuang/Core/AppDelegate.m" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/GuangGuang/Core/ParentTabBarViewController.m" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/GuangGuang/icon/icondigital@2x.png" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/GuangGuang/icon/category@2x.png" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/GuangGuang/icon/icon6pm@2x.png" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/GuangGuang/icon/iconclothes@2x.png" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/GuangGuang/icon/settings.png" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/GuangGuang/icon/icon6pm@3x.png" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/GuangGuang/icon/navtitle_rank.png" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/GuangGuang/icon/tabbar_abroad@2x.png" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/GuangGuang/icon/iconjd@2x.png" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/GuangGuang/icon/iconelectrical@2x.png" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/GuangGuang/icon/navtitle_up@3x.png" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/GuangGuang/icon/iconelectrical@3x.png" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/GuangGuang/icon/tabbar_abroad_selected@3x.png" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/GuangGuang/icon/iconstockup@2x.png" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/GuangGuang/icon/search_icon@2x.png" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/GuangGuang/icon/iconautomobile@2x.png" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/GuangGuang/icon/navtitle_home_down.png" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/GuangGuang/icon/navtitle_abroad_down@2x.png" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/GuangGuang/icon/navtitle_rank@2x.png" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/GuangGuang/icon/iconstockup@3x.png" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/GuangGuang/icon/category@2x.png" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/GuangGuang/icon/icondigital@3x.png" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/GuangGuang/icon/iconsale@3x.png" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/GuangGuang/icon/hot_icon@2x.png" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/GuangGuang/icon/tabbar_home@3x.png" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/GuangGuang/icon/tabbar_abroad_selected.png" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/GuangGuang/icon/tabbar_rank_selected@2x.png" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/GuangGuang/icon/navtitle_up.png" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/GuangGuang/icon/hot_icon@3x.png" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/GuangGuang/icon/iconclothes@3x.png" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/GuangGuang/icon/tabbar_rank_selected@3x.png" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/GuangGuang/icon/icondigital@3x.png" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/GuangGuang/icon/category.png" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/GuangGuang/icon/icontravel@2x.png" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/GuangGuang/icon/navtitle_abroad_up@2x.png" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/GuangGuang/icon/settings@2x.png" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/GuangGuang/icon/tabbar_home_selected.png" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/GuangGuang/icon/iconclothes@3x.png" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/GuangGuang/icon/transdot@2x.png" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/GuangGuang/icon/navtitle_abroad_up@3x.png" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/GuangGuang/icon/settings@3x.png" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/GuangGuang/icon/iconsale@2x.png" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/GuangGuang/icon/transdot@3x.png" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/GuangGuang/icon/navtitle_down@2x.png" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/GuangGuang/icon/iconautomobile@2x.png" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/GuangGuang/icon/navtitle_abroad_down@3x.png" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/GuangGuang/icon/iconbaby@2x.png" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/GuangGuang/icon/iconzdirect@2x.png" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/GuangGuang/icon/defaullt_thumb.png" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/GuangGuang/icon/iconautomobile@3x.png" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/GuangGuang/icon/iconstockup@2x.png" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/GuangGuang/icon/iconbaby@3x.png" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/GuangGuang/icon/iconzdirect@3x.png" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/GuangGuang/icon/tabbar_home.png" isTestSource="false" />
@@ -61,20 +165,20 @@
       <sourceFolder url="file://$MODULE_DIR$/GuangGuang/icon/icontravel@3x.png" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/GuangGuang/icon/tabbar_home_selected@3x.png" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/GuangGuang/icon/icondaily@2x.png" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/GuangGuang/icon/defaullt_thumb.png" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/GuangGuang/icon/tabbar_home@3x.png" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/GuangGuang/icon/icondaily@3x.png" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/GuangGuang/icon/navtitle_abroad_up.png" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/GuangGuang/icon/tabbar_abroad.png" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/GuangGuang/icon/defaullt_thumb@2x.png" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/GuangGuang/icon/navtitle_up@2x.png" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/GuangGuang/icon/iconsport@3x.png" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/GuangGuang/icon/navtitle_abroad_down@3x.png" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/GuangGuang/icon/defaullt_thumb@3x.png" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/GuangGuang/icon/icontmall@2x.png" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/GuangGuang/icon/tabbar_abroad_selected@2x.png" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/GuangGuang/icon/icontmall@3x.png" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/GuangGuang/icon/iconamazon@2x.png" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/GuangGuang/icon/tabbar_abroad_selected@3x.png" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/GuangGuang/icon/iconelectrical@3x.png" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/GuangGuang/icon/navtitle_home_down@3x.png" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/GuangGuang/icon/iconjd@3x.png" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/GuangGuang/icon/search_icon.png" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/GuangGuang/icon/iconamazon@3x.png" isTestSource="false" />
@@ -90,14 +194,13 @@
       <sourceFolder url="file://$MODULE_DIR$/GuangGuang/icon/navtitle_down@3x.png" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/GuangGuang/icon/iconfood@3x.png" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/GuangGuang/icon/category@3x.png" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/GuangGuang/icon/transdot@2x.png" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/GuangGuang/icon/icontravel@2x.png" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/GuangGuang/icon/navtitle_rank@2x.png" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/GuangGuang/icon/search_icon@3x.png" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/GuangGuang/icon/navtitle_home_down@2x.png" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/GuangGuang/icon/iconall@2x.png" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/GuangGuang/icon/tabbar_rank.png" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/GuangGuang/icon/navtitle_rank@3x.png" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/GuangGuang/icon/navtitle_home_down@3x.png" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/GuangGuang/icon/tabbar_abroad@2x.png" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/GuangGuang/icon/iconmakeup@2x.png" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/GuangGuang/icon/iconall@3x.png" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/GuangGuang/icon/transdot.png" isTestSource="false" />
@@ -105,174 +208,228 @@
       <sourceFolder url="file://$MODULE_DIR$/GuangGuang/icon/tabbar_rank_selected.png" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/GuangGuang/icon/tabbar_rank@2x.png" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/GuangGuang/icon/navtitle_home_up.png" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/GuangGuang/pch.h" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/GuangGuang/Info.plist" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/GuangGuang/Core/ParentTabBarViewController.h" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/GuangGuang/Core/AppDelegate.h" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/GuangGuang/Core/api/HttpManager.m" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/GuangGuang/Core/api/HttpManager.h" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/GuangGuang/Core/me/MeViewController.m" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/GuangGuang/Core/me/MeViewController.h" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/GuangGuang/Core/base/iOS-Category/iOS-Category.xcodeproj" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/GuangGuang/Core/base/category/UIView+BGFrame.h" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/GuangGuang/Core/base/category/UINavigationController+FDFullscreenPopGesture.h" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/GuangGuang/Core/base/category/NSDictionary+Category.h" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/GuangGuang/Core/base/category/NSData+Category.m" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/GuangGuang/Core/base/category/NSMutableDictionary+Category.m" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/GuangGuang/Core/base/category/NSString+MD5.m" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/GuangGuang/Core/base/category/UIView+Animation.m" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/GuangGuang/Core/base/category/NSArray+Category.m" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/GuangGuang/Core/base/category/NSData+Category.h" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/GuangGuang/Core/base/category/NSMutableDictionary+Category.h" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/GuangGuang/Core/base/category/NSString+MD5.h" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/GuangGuang/Core/base/category/UIView+Animation.h" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/GuangGuang/Core/base/category/NSArray+Category.h" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/GuangGuang/Core/base/category/UIButton+Category.m" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/GuangGuang/Core/base/category/NSAttributedString+Category.m" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/GuangGuang/Core/base/category/NSAttributedString+Category.h" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/GuangGuang/Core/base/category/UITableViewCell+CellAnimation.m" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/GuangGuang/Core/base/category/UIButton+Category.h" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/GuangGuang/Core/base/category/NSMutableArray+Category.m" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/GuangGuang/Core/base/category/NSString+Category.m" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/GuangGuang/Core/base/category/NSTimer+Category.m" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/GuangGuang/Core/base/category/UIMenuItem+Category.m" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/GuangGuang/Core/base/category/NSData+CommonCryptor.m" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/GuangGuang/Core/base/category/NSTimer+Category.h" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/GuangGuang/Core/base/category/UIMenuItem+Category.h" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/GuangGuang/Core/base/category/NSData+CommonCryptor.h" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/GuangGuang/Core/base/category/NSMutableAttributedString+Category.m" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/GuangGuang/Core/base/category/UIImage+Category.m" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/GuangGuang/Core/base/category/UIColor+BGHexColor.m" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/GuangGuang/Core/base/category/NSMutableAttributedString+Category.h" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/GuangGuang/Core/base/category/NSString+DisplayTime.m" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/GuangGuang/Core/base/category/UIImage+Category.h" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/GuangGuang/Core/base/category/UITableViewCell+CellAnimation.h" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/GuangGuang/Core/base/category/NSString+Predicate.m" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/GuangGuang/Core/base/category/NSString+DisplayTime.h" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/GuangGuang/Core/base/category/UIControl+ResponseTime.h" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/GuangGuang/Core/base/category/NSString+Category.h" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/GuangGuang/Core/base/category/NSString+Predicate.h" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/GuangGuang/Core/base/category/UIView+Category.m" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/GuangGuang/Core/base/category/UIView+Category.h" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/GuangGuang/Core/base/category/UIColor+BGHexColor.h" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/GuangGuang/Core/base/category/NSMutableArray+Category.h" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/GuangGuang/Core/base/category/UIControl+ResponseTime.m" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/GuangGuang/Core/base/category/UIView+BGFrame.m" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/GuangGuang/Core/base/category/UINavigationController+FDFullscreenPopGesture.m" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/GuangGuang/Core/base/category/NSDictionary+Category.m" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/GuangGuang/Core/base/cell/BaseCell.h" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/GuangGuang/Core/base/cell/BaseCell.m" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/GuangGuang/Core/base/category2/UIButton+CountDown.m" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/GuangGuang/Core/base/category2/UIViewController+Common.m" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/GuangGuang/Core/base/category2/UIView+rn_Screenshot.m" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/GuangGuang/Core/base/category2/UIButton+CountDown.h" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/GuangGuang/Core/base/category2/UIView+Extension.h" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/GuangGuang/Core/base/category2/UIView+Animation.m" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/GuangGuang/Core/base/category2/BaseViewController.m" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/GuangGuang/Core/base/category2/UIBarButtonItem+Custom.m" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/GuangGuang/Core/base/category2/UIViewController+Common.h" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/GuangGuang/Core/base/category2/UIBarButtonItem+Custom.h" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/GuangGuang/Core/base/category2/UIImage+Common.m" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/GuangGuang/Core/base/category2/UIView+rn_Screenshot.h" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/GuangGuang/Core/base/category2/UIImage+Common.h" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/GuangGuang/Core/base/category2/UIColor+Hex.m" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/GuangGuang/Core/base/category2/NSDate+Common.m" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/GuangGuang/Core/base/category2/NSObject+Info.m" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/GuangGuang/Core/base/category2/UILabel+Common.m" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/GuangGuang/Core/base/category2/UIColor+Hex.h" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/GuangGuang/Core/base/category2/NSDate+Common.h" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/GuangGuang/Core/base/category2/UIImage+ImageEffects.m" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/GuangGuang/Core/base/category2/UIView+Extension.m" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/GuangGuang/Core/base/category2/UILabel+Common.h" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/GuangGuang/Core/base/category2/UIAlertController+Common.m" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/GuangGuang/Core/base/category2/UIImage+ImageEffects.h" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/GuangGuang/Core/base/category2/UINavigationBar+Awesome.h" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/GuangGuang/Core/base/category2/UIAlertController+Common.h" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/GuangGuang/Core/base/category2/UIView+Animation.h" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/GuangGuang/Core/base/category2/UIImageView+QNCache.m" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/GuangGuang/Core/base/category2/UINavigationBar+Awesome.m" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/GuangGuang/Core/base/category2/NSString+Common.h" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/GuangGuang/Core/base/category2/UIImageView+QNCache.h" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/GuangGuang/Core/base/category2/BaseViewController.h" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/GuangGuang/Core/base/category2/NSObject+Info.h" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/GuangGuang/Core/base/category2/NSString+Common.m" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/GuangGuang/Core/home/HomeViewController.m" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/GuangGuang/Core/home/model/TModel.m" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/GuangGuang/Core/home/model/TModel.h" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/GuangGuang/Core/home/HomeViewController.h" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/GuangGuang/Core/home/cell/HomeCell.m" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/GuangGuang/Core/home/cell/HomeCell.h" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/GuangGuang/Core/foreign/ForeignViewController.h" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/GuangGuang/Core/foreign/ForeignViewController.m" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/GuangGuang/Core/hot/HotViewController.h" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/GuangGuang/Core/hot/HotViewController.m" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/GuangGuang/Core/AppDelegate.m" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/GuangGuang/Core/ParentTabBarViewController.m" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/Pods/MJExtension/MJExtension/MJFoundation.h" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/Pods/MJExtension/MJExtension/MJExtensionConst.h" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/Pods/MJExtension/MJExtension/NSObject+MJProperty.m" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/Pods/MJExtension/MJExtension/MJProperty.m" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/Pods/MJExtension/MJExtension/NSObject+MJClass.h" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/Pods/MJExtension/MJExtension/NSObject+MJProperty.h" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/Pods/MJExtension/MJExtension/MJProperty.h" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/Pods/MJExtension/MJExtension/NSObject+MJCoding.h" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/Pods/MJExtension/MJExtension/MJFoundation.m" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Pods/MJExtension/MJExtension/NSObject+MJProperty.m" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Pods/MJExtension/MJExtension/NSObject+MJClass.m" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Pods/MJExtension/MJExtension/MJPropertyType.m" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Pods/MJExtension/MJExtension/NSObject+MJProperty.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Pods/MJExtension/MJExtension/NSObject+MJClass.h" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/Pods/MJExtension/MJExtension/NSString+MJExtension.m" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Pods/MJExtension/MJExtension/MJProperty.m" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/Pods/MJExtension/MJExtension/MJPropertyKey.m" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/Pods/MJExtension/MJExtension/NSObject+MJCoding.m" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Pods/MJExtension/MJExtension/MJProperty.h" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/Pods/MJExtension/MJExtension/NSString+MJExtension.h" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/Pods/MJExtension/MJExtension/MJPropertyKey.h" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/Pods/MJExtension/MJExtension/MJPropertyType.m" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Pods/MJExtension/MJExtension/MJExtensionConst.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Pods/MJExtension/MJExtension/NSObject+MJCoding.m" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Pods/MJExtension/MJExtension/MJFoundation.m" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/Pods/MJExtension/MJExtension/NSObject+MJKeyValue.m" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/Pods/MJExtension/MJExtension/MJPropertyType.h" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/Pods/MJExtension/MJExtension/MJExtension.h" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/Pods/MJExtension/MJExtension/NSObject+MJKeyValue.h" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/Pods/MJExtension/MJExtension/MJExtensionConst.m" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/Pods/MJExtension/MJExtension/NSObject+MJClass.m" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Pods/ReactiveCocoa/ReactiveCocoa/NSUserDefaults+RACSupport.m" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Pods/ReactiveCocoa/ReactiveCocoa/NSFileHandle+RACSupport.m" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Pods/ReactiveCocoa/ReactiveCocoa/UIBarButtonItem+RACCommandSupport.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Pods/ReactiveCocoa/ReactiveCocoa/NSObject+RACLifting.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Pods/ReactiveCocoa/ReactiveCocoa/RACSequence.m" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Pods/ReactiveCocoa/ReactiveCocoa/NSFileHandle+RACSupport.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Pods/ReactiveCocoa/ReactiveCocoa/UIRefreshControl+RACCommandSupport.m" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Pods/ReactiveCocoa/ReactiveCocoa/RACSequence.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Pods/ReactiveCocoa/ReactiveCocoa/UIRefreshControl+RACCommandSupport.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Pods/ReactiveCocoa/ReactiveCocoa/RACSubscriber.m" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Pods/ReactiveCocoa/ReactiveCocoa/RACEvent.m" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Pods/ReactiveCocoa/ReactiveCocoa/MKAnnotationView+RACSignalSupport.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Pods/ReactiveCocoa/ReactiveCocoa/NSObject+RACKVOWrapper.m" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Pods/ReactiveCocoa/ReactiveCocoa/RACTargetQueueScheduler.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Pods/ReactiveCocoa/ReactiveCocoa/RACEvent.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Pods/ReactiveCocoa/ReactiveCocoa/RACBlockTrampoline.m" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Pods/ReactiveCocoa/ReactiveCocoa/NSObject+RACKVOWrapper.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Pods/ReactiveCocoa/ReactiveCocoa/RACQueueScheduler.m" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Pods/ReactiveCocoa/ReactiveCocoa/RACBlockTrampoline.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Pods/ReactiveCocoa/ReactiveCocoa/NSObject+RACDescription.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Pods/ReactiveCocoa/ReactiveCocoa/UITextField+RACSignalSupport.m" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Pods/ReactiveCocoa/ReactiveCocoa/UIAlertView+RACSignalSupport.m" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Pods/ReactiveCocoa/ReactiveCocoa/RACSubscriptingAssignmentTrampoline.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Pods/ReactiveCocoa/ReactiveCocoa/UIControl+RACSignalSupportPrivate.m" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Pods/ReactiveCocoa/ReactiveCocoa/UIAlertView+RACSignalSupport.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Pods/ReactiveCocoa/ReactiveCocoa/UITextView+RACSignalSupport.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Pods/ReactiveCocoa/ReactiveCocoa/UIControl+RACSignalSupportPrivate.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Pods/ReactiveCocoa/ReactiveCocoa/UITableViewHeaderFooterView+RACSignalSupport.m" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Pods/ReactiveCocoa/ReactiveCocoa/RACErrorSignal.m" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Pods/ReactiveCocoa/ReactiveCocoa/UISegmentedControl+RACSignalSupport.m" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Pods/ReactiveCocoa/ReactiveCocoa/UICollectionReusableView+RACSignalSupport.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Pods/ReactiveCocoa/ReactiveCocoa/RACCompoundDisposable.m" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Pods/ReactiveCocoa/ReactiveCocoa/RACMulticastConnection+Private.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Pods/ReactiveCocoa/ReactiveCocoa/UISegmentedControl+RACSignalSupport.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Pods/ReactiveCocoa/ReactiveCocoa/RACCompoundDisposable.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Pods/ReactiveCocoa/ReactiveCocoa/RACDisposable.m" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Pods/ReactiveCocoa/ReactiveCocoa/UIDatePicker+RACSignalSupport.m" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Pods/ReactiveCocoa/ReactiveCocoa/RACDisposable.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Pods/ReactiveCocoa/ReactiveCocoa/NSIndexSet+RACSequenceAdditions.m" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Pods/ReactiveCocoa/ReactiveCocoa/RACSignal.m" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Pods/ReactiveCocoa/ReactiveCocoa/RACDynamicSequence.m" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Pods/ReactiveCocoa/ReactiveCocoa/NSIndexSet+RACSequenceAdditions.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Pods/ReactiveCocoa/ReactiveCocoa/RACGroupedSignal.m" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Pods/ReactiveCocoa/ReactiveCocoa/RACUnit.m" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Pods/ReactiveCocoa/ReactiveCocoa/RACSerialDisposable.m" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Pods/ReactiveCocoa/ReactiveCocoa/RACGroupedSignal.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Pods/ReactiveCocoa/ReactiveCocoa/NSString+RACSequenceAdditions.m" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Pods/ReactiveCocoa/ReactiveCocoa/RACSerialDisposable.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Pods/ReactiveCocoa/ReactiveCocoa/UIBarButtonItem+RACCommandSupport.m" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Pods/ReactiveCocoa/ReactiveCocoa/RACCompoundDisposableProvider.d" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Pods/ReactiveCocoa/ReactiveCocoa/RACScopedDisposable.m" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Pods/ReactiveCocoa/ReactiveCocoa/RACBehaviorSubject.m" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Pods/ReactiveCocoa/ReactiveCocoa/RACSubscriptionScheduler.m" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Pods/ReactiveCocoa/ReactiveCocoa/NSURLConnection+RACSupport.m" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Pods/ReactiveCocoa/ReactiveCocoa/ReactiveCocoa.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Pods/ReactiveCocoa/ReactiveCocoa/NSObject+RACDeallocating.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Pods/ReactiveCocoa/ReactiveCocoa/NSInvocation+RACTypeParsing.m" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Pods/ReactiveCocoa/ReactiveCocoa/NSString+RACSupport.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Pods/ReactiveCocoa/ReactiveCocoa/NSString+RACKeyPathUtilities.m" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Pods/ReactiveCocoa/ReactiveCocoa/UISlider+RACSignalSupport.m" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Pods/ReactiveCocoa/ReactiveCocoa/RACBehaviorSubject.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Pods/ReactiveCocoa/ReactiveCocoa/NSString+RACKeyPathUtilities.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Pods/ReactiveCocoa/ReactiveCocoa/RACObjCRuntime.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Pods/ReactiveCocoa/ReactiveCocoa/UISlider+RACSignalSupport.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Pods/ReactiveCocoa/ReactiveCocoa/NSInvocation+RACTypeParsing.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Pods/ReactiveCocoa/ReactiveCocoa/RACReturnSignal.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Pods/ReactiveCocoa/ReactiveCocoa/RACReturnSignal.m" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Pods/ReactiveCocoa/ReactiveCocoa/UIButton+RACCommandSupport.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Pods/ReactiveCocoa/ReactiveCocoa/NSData+RACSupport.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Pods/ReactiveCocoa/ReactiveCocoa/RACKVOProxy.m" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Pods/ReactiveCocoa/ReactiveCocoa/UIGestureRecognizer+RACSignalSupport.m" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Pods/ReactiveCocoa/ReactiveCocoa/UIDatePicker+RACSignalSupport.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Pods/ReactiveCocoa/ReactiveCocoa/RACKVOProxy.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Pods/ReactiveCocoa/ReactiveCocoa/RACScheduler+Private.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Pods/ReactiveCocoa/ReactiveCocoa/UIGestureRecognizer+RACSignalSupport.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Pods/ReactiveCocoa/ReactiveCocoa/UIImagePickerController+RACSignalSupport.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Pods/ReactiveCocoa/ReactiveCocoa/UITextField+RACSignalSupport.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Pods/ReactiveCocoa/ReactiveCocoa/RACIndexSetSequence.m" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Pods/ReactiveCocoa/ReactiveCocoa/RACScopedDisposable.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Pods/ReactiveCocoa/ReactiveCocoa/RACDelegateProxy.m" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Pods/ReactiveCocoa/ReactiveCocoa/RACIndexSetSequence.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Pods/ReactiveCocoa/ReactiveCocoa/RACTestScheduler.m" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Pods/ReactiveCocoa/ReactiveCocoa/NSObject+RACDeallocating.m" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Pods/ReactiveCocoa/ReactiveCocoa/RACSubscriptingAssignmentTrampoline.m" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Pods/ReactiveCocoa/ReactiveCocoa/RACDelegateProxy.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Pods/ReactiveCocoa/ReactiveCocoa/RACTestScheduler.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Pods/ReactiveCocoa/ReactiveCocoa/RACStream.m" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Pods/ReactiveCocoa/ReactiveCocoa/RACTuple.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Pods/ReactiveCocoa/ReactiveCocoa/RACReplaySubject.m" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Pods/ReactiveCocoa/ReactiveCocoa/NSSet+RACSequenceAdditions.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Pods/ReactiveCocoa/ReactiveCocoa/RACSignal.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Pods/ReactiveCocoa/ReactiveCocoa/RACValueTransformer.m" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Pods/ReactiveCocoa/ReactiveCocoa/RACReplaySubject.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Pods/ReactiveCocoa/ReactiveCocoa/RACEmptySignal.m" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Pods/ReactiveCocoa/ReactiveCocoa/RACTupleSequence.m" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Pods/ReactiveCocoa/ReactiveCocoa/RACValueTransformer.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Pods/ReactiveCocoa/ReactiveCocoa/UIControl+RACSignalSupport.m" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Pods/ReactiveCocoa/ReactiveCocoa/RACTupleSequence.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Pods/ReactiveCocoa/ReactiveCocoa/UIControl+RACSignalSupport.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Pods/ReactiveCocoa/ReactiveCocoa/RACDynamicSequence.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Pods/ReactiveCocoa/ReactiveCocoa/RACEmptySignal.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Pods/ReactiveCocoa/ReactiveCocoa/NSString+RACSequenceAdditions.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Pods/ReactiveCocoa/ReactiveCocoa/RACSignal+Operations.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Pods/ReactiveCocoa/ReactiveCocoa/RACStream.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Pods/ReactiveCocoa/ReactiveCocoa/RACSignal+Operations.m" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Pods/ReactiveCocoa/ReactiveCocoa/NSURLConnection+RACSupport.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Pods/ReactiveCocoa/ReactiveCocoa/RACStringSequence.m" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Pods/ReactiveCocoa/ReactiveCocoa/UISwitch+RACSignalSupport.m" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Pods/ReactiveCocoa/ReactiveCocoa/extobjc/RACEXTKeyPathCoding.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Pods/ReactiveCocoa/ReactiveCocoa/extobjc/RACmetamacros.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Pods/ReactiveCocoa/ReactiveCocoa/extobjc/RACEXTRuntimeExtensions.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Pods/ReactiveCocoa/ReactiveCocoa/extobjc/RACEXTScope.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Pods/ReactiveCocoa/ReactiveCocoa/extobjc/RACEXTRuntimeExtensions.m" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Pods/ReactiveCocoa/ReactiveCocoa/UISwitch+RACSignalSupport.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Pods/ReactiveCocoa/ReactiveCocoa/RACKVOTrampoline.m" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Pods/ReactiveCocoa/ReactiveCocoa/UITextView+RACSignalSupport.m" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Pods/ReactiveCocoa/ReactiveCocoa/NSObject+RACSelectorSignal.m" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Pods/ReactiveCocoa/ReactiveCocoa/NSDictionary+RACSequenceAdditions.m" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Pods/ReactiveCocoa/ReactiveCocoa/RACKVOTrampoline.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Pods/ReactiveCocoa/ReactiveCocoa/NSObject+RACSelectorSignal.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Pods/ReactiveCocoa/ReactiveCocoa/NSDictionary+RACSequenceAdditions.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Pods/ReactiveCocoa/ReactiveCocoa/RACSignalSequence.m" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Pods/ReactiveCocoa/ReactiveCocoa/RACPassthroughSubscriber.m" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Pods/ReactiveCocoa/ReactiveCocoa/RACKVOChannel.m" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Pods/ReactiveCocoa/ReactiveCocoa/UITableViewHeaderFooterView+RACSignalSupport.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Pods/ReactiveCocoa/ReactiveCocoa/UIActionSheet+RACSignalSupport.m" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Pods/ReactiveCocoa/ReactiveCocoa/RACObjCRuntime.m" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Pods/ReactiveCocoa/ReactiveCocoa/UIActionSheet+RACSignalSupport.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Pods/ReactiveCocoa/ReactiveCocoa/RACSubject.m" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Pods/ReactiveCocoa/ReactiveCocoa/RACSubject.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Pods/ReactiveCocoa/ReactiveCocoa/NSString+RACSupport.m" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Pods/ReactiveCocoa/ReactiveCocoa/RACScheduler.m" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Pods/ReactiveCocoa/ReactiveCocoa/RACChannel.m" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Pods/ReactiveCocoa/ReactiveCocoa/RACScheduler.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Pods/ReactiveCocoa/ReactiveCocoa/RACUnarySequence.m" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Pods/ReactiveCocoa/ReactiveCocoa/RACStringSequence.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Pods/ReactiveCocoa/ReactiveCocoa/RACChannel.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Pods/ReactiveCocoa/ReactiveCocoa/NSUserDefaults+RACSupport.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Pods/ReactiveCocoa/ReactiveCocoa/RACUnarySequence.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Pods/ReactiveCocoa/ReactiveCocoa/RACMulticastConnection.m" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Pods/ReactiveCocoa/ReactiveCocoa/RACSignalSequence.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Pods/ReactiveCocoa/ReactiveCocoa/RACImmediateScheduler.m" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Pods/ReactiveCocoa/ReactiveCocoa/RACSubscriber.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Pods/ReactiveCocoa/ReactiveCocoa/RACMulticastConnection.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Pods/ReactiveCocoa/ReactiveCocoa/NSOrderedSet+RACSequenceAdditions.m" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Pods/ReactiveCocoa/ReactiveCocoa/RACImmediateScheduler.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Pods/ReactiveCocoa/ReactiveCocoa/RACTargetQueueScheduler.m" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Pods/ReactiveCocoa/ReactiveCocoa/RACUnit.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Pods/ReactiveCocoa/ReactiveCocoa/UIImagePickerController+RACSignalSupport.m" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Pods/ReactiveCocoa/ReactiveCocoa/NSOrderedSet+RACSequenceAdditions.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Pods/ReactiveCocoa/ReactiveCocoa/NSSet+RACSequenceAdditions.m" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Pods/ReactiveCocoa/ReactiveCocoa/MKAnnotationView+RACSignalSupport.m" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Pods/ReactiveCocoa/ReactiveCocoa/NSEnumerator+RACSequenceAdditions.m" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Pods/ReactiveCocoa/ReactiveCocoa/RACScheduler+Subclass.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Pods/ReactiveCocoa/ReactiveCocoa/RACArraySequence.m" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Pods/ReactiveCocoa/ReactiveCocoa/NSArray+RACSequenceAdditions.m" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Pods/ReactiveCocoa/ReactiveCocoa/NSEnumerator+RACSequenceAdditions.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Pods/ReactiveCocoa/ReactiveCocoa/RACArraySequence.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Pods/ReactiveCocoa/ReactiveCocoa/UITableViewCell+RACSignalSupport.m" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Pods/ReactiveCocoa/ReactiveCocoa/NSArray+RACSequenceAdditions.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Pods/ReactiveCocoa/ReactiveCocoa/UITableViewCell+RACSignalSupport.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Pods/ReactiveCocoa/ReactiveCocoa/RACQueueScheduler.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Pods/ReactiveCocoa/ReactiveCocoa/RACSignalProvider.d" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Pods/ReactiveCocoa/ReactiveCocoa/NSData+RACSupport.m" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Pods/ReactiveCocoa/ReactiveCocoa/RACTuple.m" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Pods/ReactiveCocoa/ReactiveCocoa/RACStream+Private.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Pods/ReactiveCocoa/ReactiveCocoa/RACQueueScheduler+Subclass.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Pods/ReactiveCocoa/ReactiveCocoa/RACSubscriptionScheduler.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Pods/ReactiveCocoa/ReactiveCocoa/RACSubscriber+Private.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Pods/ReactiveCocoa/ReactiveCocoa/NSObject+RACPropertySubscribing.m" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Pods/ReactiveCocoa/ReactiveCocoa/RACDynamicSignal.m" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Pods/ReactiveCocoa/ReactiveCocoa/RACCommand.m" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Pods/ReactiveCocoa/ReactiveCocoa/UIStepper+RACSignalSupport.m" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Pods/ReactiveCocoa/ReactiveCocoa/RACDynamicSignal.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Pods/ReactiveCocoa/ReactiveCocoa/RACCommand.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Pods/ReactiveCocoa/ReactiveCocoa/UIStepper+RACSignalSupport.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Pods/ReactiveCocoa/ReactiveCocoa/NSObject+RACDescription.m" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Pods/ReactiveCocoa/ReactiveCocoa/NSNotificationCenter+RACSupport.m" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Pods/ReactiveCocoa/ReactiveCocoa/UIButton+RACCommandSupport.m" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Pods/ReactiveCocoa/ReactiveCocoa/RACEagerSequence.m" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Pods/ReactiveCocoa/ReactiveCocoa/RACErrorSignal.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Pods/ReactiveCocoa/ReactiveCocoa/RACPassthroughSubscriber.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Pods/ReactiveCocoa/ReactiveCocoa/NSNotificationCenter+RACSupport.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Pods/ReactiveCocoa/ReactiveCocoa/RACEagerSequence.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Pods/ReactiveCocoa/ReactiveCocoa/RACEmptySequence.m" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Pods/ReactiveCocoa/ReactiveCocoa/RACKVOChannel.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Pods/ReactiveCocoa/ReactiveCocoa/RACEmptySequence.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Pods/ReactiveCocoa/ReactiveCocoa/NSObject+RACPropertySubscribing.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Pods/ReactiveCocoa/ReactiveCocoa/UICollectionReusableView+RACSignalSupport.m" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Pods/ReactiveCocoa/ReactiveCocoa/NSObject+RACLifting.m" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/Pods/FMDB/src/fmdb/FMDatabaseAdditions.m" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/Pods/FMDB/src/fmdb/FMDatabase.m" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/Pods/FMDB/src/fmdb/FMResultSet.m" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/Pods/FMDB/src/fmdb/FMDB.h" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/Pods/FMDB/src/fmdb/FMDatabaseAdditions.h" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/Pods/FMDB/src/fmdb/FMDatabasePool.m" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/Pods/FMDB/src/fmdb/FMDatabaseQueue.m" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Pods/FMDB/src/fmdb/FMDatabase.m" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Pods/FMDB/src/fmdb/FMDatabaseAdditions.h" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/Pods/FMDB/src/fmdb/FMResultSet.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Pods/FMDB/src/fmdb/FMDatabaseQueue.m" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Pods/FMDB/src/fmdb/FMResultSet.m" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/Pods/FMDB/src/fmdb/FMDatabase.h" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/Pods/FMDB/src/fmdb/FMDatabasePool.h" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/Pods/FMDB/src/fmdb/FMDatabaseQueue.h" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/Pods/AFNetworking/AFNetworking/AFURLSessionManager.h" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/Pods/AFNetworking/AFNetworking/AFSecurityPolicy.m" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/Pods/AFNetworking/AFNetworking/AFNetworkReachabilityManager.h" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/Pods/AFNetworking/AFNetworking/AFURLSessionManager.m" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/Pods/AFNetworking/AFNetworking/AFNetworkReachabilityManager.m" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/Pods/AFNetworking/AFNetworking/AFURLRequestSerialization.h" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/Pods/AFNetworking/AFNetworking/AFHTTPSessionManager.m" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/Pods/AFNetworking/AFNetworking/AFURLRequestSerialization.m" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/Pods/AFNetworking/AFNetworking/AFHTTPSessionManager.h" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/Pods/AFNetworking/AFNetworking/AFSecurityPolicy.h" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/Pods/AFNetworking/AFNetworking/AFNetworking.h" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/Pods/AFNetworking/AFNetworking/AFURLResponseSerialization.h" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/Pods/AFNetworking/AFNetworking/AFURLResponseSerialization.m" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/Pods/AFNetworking/UIKit+AFNetworking/UIButton+AFNetworking.h" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/Pods/AFNetworking/UIKit+AFNetworking/UIActivityIndicatorView+AFNetworking.h" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/Pods/AFNetworking/UIKit+AFNetworking/UIWebView+AFNetworking.m" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/Pods/AFNetworking/UIKit+AFNetworking/UIKit+AFNetworking.h" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/Pods/AFNetworking/UIKit+AFNetworking/AFImageDownloader.m" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/Pods/AFNetworking/UIKit+AFNetworking/UIButton+AFNetworking.m" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/Pods/AFNetworking/UIKit+AFNetworking/UIRefreshControl+AFNetworking.m" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/Pods/AFNetworking/UIKit+AFNetworking/UIImage+AFNetworking.h" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/Pods/AFNetworking/UIKit+AFNetworking/AFNetworkActivityIndicatorManager.h" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/Pods/AFNetworking/UIKit+AFNetworking/UIActivityIndicatorView+AFNetworking.m" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/Pods/AFNetworking/UIKit+AFNetworking/UIProgressView+AFNetworking.m" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/Pods/AFNetworking/UIKit+AFNetworking/UIRefreshControl+AFNetworking.h" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/Pods/AFNetworking/UIKit+AFNetworking/AFAutoPurgingImageCache.m" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/Pods/AFNetworking/UIKit+AFNetworking/UIProgressView+AFNetworking.h" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/Pods/AFNetworking/UIKit+AFNetworking/UIImageView+AFNetworking.h" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/Pods/AFNetworking/UIKit+AFNetworking/AFNetworkActivityIndicatorManager.m" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/Pods/AFNetworking/UIKit+AFNetworking/AFAutoPurgingImageCache.h" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/Pods/AFNetworking/UIKit+AFNetworking/UIImageView+AFNetworking.m" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/Pods/AFNetworking/UIKit+AFNetworking/UIWebView+AFNetworking.h" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/Pods/AFNetworking/UIKit+AFNetworking/AFImageDownloader.h" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/Pods/Target Support Files/MJExtension/MJExtension.xcconfig" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/Pods/Target Support Files/MJExtension/MJExtension-dummy.m" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/Pods/Target Support Files/MJExtension/MJExtension-prefix.pch" isTestSource="false" />
@@ -282,220 +439,64 @@
       <sourceFolder url="file://$MODULE_DIR$/Pods/Target Support Files/FMDB/FMDB-prefix.pch" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/Pods/Target Support Files/FMDB/FMDB-dummy.m" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/Pods/Target Support Files/FMDB/FMDB.xcconfig" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/Pods/Target Support Files/AFNetworking/AFNetworking.xcconfig" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/Pods/Target Support Files/AFNetworking/AFNetworking-prefix.pch" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/Pods/Target Support Files/AFNetworking/AFNetworking-dummy.m" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Pods/Target Support Files/AFNetworking/AFNetworking-prefix.pch" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Pods/Target Support Files/AFNetworking/AFNetworking.xcconfig" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/Pods/Target Support Files/Masonry/Masonry-prefix.pch" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/Pods/Target Support Files/Masonry/Masonry.xcconfig" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/Pods/Target Support Files/Masonry/Masonry-dummy.m" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/Pods/Target Support Files/Pods-GuangGuang/Pods-GuangGuang-frameworks.sh" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/Pods/Target Support Files/Pods-GuangGuang/Pods-GuangGuang.release.xcconfig" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/Pods/Target Support Files/Pods-GuangGuang/Pods-GuangGuang-acknowledgements.plist" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Pods/Target Support Files/Pods-GuangGuang/Pods-GuangGuang.debug.xcconfig" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/Pods/Target Support Files/Pods-GuangGuang/Pods-GuangGuang-dummy.m" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/Pods/Target Support Files/Pods-GuangGuang/Pods-GuangGuang-acknowledgements.markdown" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/Pods/Target Support Files/Pods-GuangGuang/Pods-GuangGuang-resources.sh" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/Pods/Target Support Files/Pods-GuangGuang/Pods-GuangGuang.debug.xcconfig" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/Pods/ReactiveCocoa/ReactiveCocoa/NSUserDefaults+RACSupport.m" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/Pods/ReactiveCocoa/ReactiveCocoa/NSFileHandle+RACSupport.m" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/Pods/ReactiveCocoa/ReactiveCocoa/UIBarButtonItem+RACCommandSupport.h" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/Pods/ReactiveCocoa/ReactiveCocoa/NSObject+RACLifting.h" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/Pods/ReactiveCocoa/ReactiveCocoa/RACSequence.m" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/Pods/ReactiveCocoa/ReactiveCocoa/NSString+RACSequenceAdditions.h" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/Pods/ReactiveCocoa/ReactiveCocoa/UIRefreshControl+RACCommandSupport.m" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/Pods/ReactiveCocoa/ReactiveCocoa/RACSignal+Operations.h" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/Pods/ReactiveCocoa/ReactiveCocoa/UIRefreshControl+RACCommandSupport.h" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/Pods/ReactiveCocoa/ReactiveCocoa/RACSubscriber.m" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/Pods/ReactiveCocoa/ReactiveCocoa/RACEvent.m" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/Pods/ReactiveCocoa/ReactiveCocoa/NSObject+RACKVOWrapper.m" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/Pods/ReactiveCocoa/ReactiveCocoa/RACSubscriber.h" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/Pods/ReactiveCocoa/ReactiveCocoa/RACEvent.h" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/Pods/ReactiveCocoa/ReactiveCocoa/RACCompoundDisposable.m" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/Pods/ReactiveCocoa/ReactiveCocoa/RACBlockTrampoline.m" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/Pods/ReactiveCocoa/ReactiveCocoa/NSObject+RACKVOWrapper.h" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/Pods/ReactiveCocoa/ReactiveCocoa/RACQueueScheduler.m" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/Pods/ReactiveCocoa/ReactiveCocoa/RACTupleSequence.m" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/Pods/ReactiveCocoa/ReactiveCocoa/NSSet+RACSequenceAdditions.m" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/Pods/ReactiveCocoa/ReactiveCocoa/UIAlertView+RACSignalSupport.m" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/Pods/ReactiveCocoa/ReactiveCocoa/UITextView+RACSignalSupport.m" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/Pods/ReactiveCocoa/ReactiveCocoa/UIControl+RACSignalSupportPrivate.m" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/Pods/ReactiveCocoa/ReactiveCocoa/UIAlertView+RACSignalSupport.h" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/Pods/ReactiveCocoa/ReactiveCocoa/UITextView+RACSignalSupport.h" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/Pods/ReactiveCocoa/ReactiveCocoa/UIControl+RACSignalSupportPrivate.h" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/Pods/ReactiveCocoa/ReactiveCocoa/UITableViewHeaderFooterView+RACSignalSupport.m" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/Pods/ReactiveCocoa/ReactiveCocoa/RACErrorSignal.m" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/Pods/ReactiveCocoa/ReactiveCocoa/UISegmentedControl+RACSignalSupport.h" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/Pods/ReactiveCocoa/ReactiveCocoa/UISegmentedControl+RACSignalSupport.m" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/Pods/ReactiveCocoa/ReactiveCocoa/UITableViewHeaderFooterView+RACSignalSupport.h" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/Pods/ReactiveCocoa/ReactiveCocoa/RACErrorSignal.h" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/Pods/ReactiveCocoa/ReactiveCocoa/RACMulticastConnection+Private.h" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/Pods/ReactiveCocoa/ReactiveCocoa/RACObjCRuntime.h" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/Pods/ReactiveCocoa/ReactiveCocoa/RACCompoundDisposable.h" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/Pods/ReactiveCocoa/ReactiveCocoa/RACSignal.h" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/Pods/ReactiveCocoa/ReactiveCocoa/RACDisposable.m" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/Pods/ReactiveCocoa/ReactiveCocoa/UIDatePicker+RACSignalSupport.m" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/Pods/ReactiveCocoa/ReactiveCocoa/ReactiveCocoa.h" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/Pods/ReactiveCocoa/ReactiveCocoa/RACDisposable.h" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/Pods/ReactiveCocoa/ReactiveCocoa/NSIndexSet+RACSequenceAdditions.m" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/Pods/ReactiveCocoa/ReactiveCocoa/RACDynamicSequence.m" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/Pods/ReactiveCocoa/ReactiveCocoa/RACTargetQueueScheduler.m" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/Pods/ReactiveCocoa/ReactiveCocoa/NSIndexSet+RACSequenceAdditions.h" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/Pods/ReactiveCocoa/ReactiveCocoa/RACGroupedSignal.m" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/Pods/ReactiveCocoa/ReactiveCocoa/RACUnit.m" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/Pods/ReactiveCocoa/ReactiveCocoa/RACSerialDisposable.m" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/Pods/ReactiveCocoa/ReactiveCocoa/UIGestureRecognizer+RACSignalSupport.m" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/Pods/ReactiveCocoa/ReactiveCocoa/RACGroupedSignal.h" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/Pods/ReactiveCocoa/ReactiveCocoa/NSString+RACSequenceAdditions.m" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/Pods/ReactiveCocoa/ReactiveCocoa/RACSerialDisposable.h" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/Pods/ReactiveCocoa/ReactiveCocoa/UIStepper+RACSignalSupport.m" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/Pods/ReactiveCocoa/ReactiveCocoa/RACBehaviorSubject.h" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/Pods/ReactiveCocoa/ReactiveCocoa/RACCompoundDisposableProvider.d" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/Pods/ReactiveCocoa/ReactiveCocoa/RACScopedDisposable.m" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/Pods/ReactiveCocoa/ReactiveCocoa/RACBehaviorSubject.m" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/Pods/ReactiveCocoa/ReactiveCocoa/RACSubscriptionScheduler.m" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/Pods/ReactiveCocoa/ReactiveCocoa/RACArraySequence.m" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/Pods/ReactiveCocoa/ReactiveCocoa/RACScopedDisposable.h" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/Pods/ReactiveCocoa/ReactiveCocoa/NSObject+RACDeallocating.h" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/Pods/ReactiveCocoa/ReactiveCocoa/RACSubscriptionScheduler.h" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/Pods/ReactiveCocoa/ReactiveCocoa/NSString+RACSupport.h" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/Pods/ReactiveCocoa/ReactiveCocoa/NSString+RACKeyPathUtilities.m" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/Pods/ReactiveCocoa/ReactiveCocoa/UISlider+RACSignalSupport.m" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/Pods/ReactiveCocoa/ReactiveCocoa/RACTuple.h" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/Pods/ReactiveCocoa/ReactiveCocoa/NSString+RACKeyPathUtilities.h" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/Pods/ReactiveCocoa/ReactiveCocoa/RACObjCRuntime.m" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/Pods/ReactiveCocoa/ReactiveCocoa/UISlider+RACSignalSupport.h" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/Pods/ReactiveCocoa/ReactiveCocoa/NSInvocation+RACTypeParsing.h" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/Pods/ReactiveCocoa/ReactiveCocoa/NSData+RACSupport.m" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/Pods/ReactiveCocoa/ReactiveCocoa/RACReturnSignal.h" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/Pods/ReactiveCocoa/ReactiveCocoa/NSInvocation+RACTypeParsing.m" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/Pods/ReactiveCocoa/ReactiveCocoa/MKAnnotationView+RACSignalSupport.m" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/Pods/ReactiveCocoa/ReactiveCocoa/NSData+RACSupport.h" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/Pods/ReactiveCocoa/ReactiveCocoa/RACReturnSignal.m" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/Pods/ReactiveCocoa/ReactiveCocoa/RACScheduler+Private.h" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/Pods/ReactiveCocoa/ReactiveCocoa/RACKVOProxy.m" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/Pods/ReactiveCocoa/ReactiveCocoa/RACEagerSequence.h" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/Pods/ReactiveCocoa/ReactiveCocoa/UIDatePicker+RACSignalSupport.h" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/Pods/ReactiveCocoa/ReactiveCocoa/RACKVOProxy.h" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/Pods/ReactiveCocoa/ReactiveCocoa/UITextField+RACSignalSupport.m" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/Pods/ReactiveCocoa/ReactiveCocoa/UIGestureRecognizer+RACSignalSupport.h" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/Pods/ReactiveCocoa/ReactiveCocoa/UIImagePickerController+RACSignalSupport.h" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/Pods/ReactiveCocoa/ReactiveCocoa/UITextField+RACSignalSupport.h" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/Pods/ReactiveCocoa/ReactiveCocoa/RACIndexSetSequence.m" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/Pods/ReactiveCocoa/ReactiveCocoa/RACDelegateProxy.m" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/Pods/ReactiveCocoa/ReactiveCocoa/RACIndexSetSequence.h" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/Pods/ReactiveCocoa/ReactiveCocoa/RACTestScheduler.m" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/Pods/ReactiveCocoa/ReactiveCocoa/NSObject+RACDeallocating.m" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/Pods/ReactiveCocoa/ReactiveCocoa/RACTuple.m" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/Pods/ReactiveCocoa/ReactiveCocoa/RACEmptySignal.h" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/Pods/ReactiveCocoa/ReactiveCocoa/RACTestScheduler.h" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/Pods/ReactiveCocoa/ReactiveCocoa/RACSignal.m" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/Pods/ReactiveCocoa/ReactiveCocoa/RACSubscriptingAssignmentTrampoline.h" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/Pods/ReactiveCocoa/ReactiveCocoa/RACReplaySubject.m" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/Pods/ReactiveCocoa/ReactiveCocoa/NSSet+RACSequenceAdditions.h" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/Pods/ReactiveCocoa/ReactiveCocoa/RACStream.h" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/Pods/ReactiveCocoa/ReactiveCocoa/RACValueTransformer.m" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/Pods/ReactiveCocoa/ReactiveCocoa/RACReplaySubject.h" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/Pods/ReactiveCocoa/ReactiveCocoa/RACEmptySignal.m" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/Pods/ReactiveCocoa/ReactiveCocoa/UIButton+RACCommandSupport.m" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/Pods/ReactiveCocoa/ReactiveCocoa/RACValueTransformer.h" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/Pods/ReactiveCocoa/ReactiveCocoa/UIControl+RACSignalSupport.m" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/Pods/ReactiveCocoa/ReactiveCocoa/RACTupleSequence.h" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/Pods/ReactiveCocoa/ReactiveCocoa/UIControl+RACSignalSupport.h" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/Pods/ReactiveCocoa/ReactiveCocoa/RACDynamicSequence.h" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/Pods/ReactiveCocoa/ReactiveCocoa/RACDelegateProxy.h" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/Pods/ReactiveCocoa/ReactiveCocoa/RACStream+Private.h" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/Pods/ReactiveCocoa/ReactiveCocoa/RACUnit.h" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/Pods/ReactiveCocoa/ReactiveCocoa/RACStream.m" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/Pods/ReactiveCocoa/ReactiveCocoa/NSURLConnection+RACSupport.h" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/Pods/ReactiveCocoa/ReactiveCocoa/UISwitch+RACSignalSupport.m" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/Pods/ReactiveCocoa/ReactiveCocoa/extobjc/RACEXTKeyPathCoding.h" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/Pods/ReactiveCocoa/ReactiveCocoa/extobjc/RACmetamacros.h" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/Pods/ReactiveCocoa/ReactiveCocoa/extobjc/RACEXTRuntimeExtensions.h" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/Pods/ReactiveCocoa/ReactiveCocoa/extobjc/RACEXTScope.h" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/Pods/ReactiveCocoa/ReactiveCocoa/extobjc/RACEXTRuntimeExtensions.m" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/Pods/ReactiveCocoa/ReactiveCocoa/UISwitch+RACSignalSupport.h" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/Pods/ReactiveCocoa/ReactiveCocoa/RACKVOTrampoline.m" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/Pods/ReactiveCocoa/ReactiveCocoa/NSObject+RACSelectorSignal.m" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/Pods/ReactiveCocoa/ReactiveCocoa/NSDictionary+RACSequenceAdditions.m" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/Pods/ReactiveCocoa/ReactiveCocoa/RACKVOTrampoline.h" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/Pods/ReactiveCocoa/ReactiveCocoa/NSObject+RACSelectorSignal.h" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/Pods/ReactiveCocoa/ReactiveCocoa/NSDictionary+RACSequenceAdditions.h" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/Pods/ReactiveCocoa/ReactiveCocoa/RACSignalSequence.h" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/Pods/ReactiveCocoa/ReactiveCocoa/RACPassthroughSubscriber.h" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/Pods/ReactiveCocoa/ReactiveCocoa/NSString+RACSupport.m" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/Pods/ReactiveCocoa/ReactiveCocoa/UIActionSheet+RACSignalSupport.m" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/Pods/ReactiveCocoa/ReactiveCocoa/NSFileHandle+RACSupport.h" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/Pods/ReactiveCocoa/ReactiveCocoa/RACSubject.m" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/Pods/ReactiveCocoa/ReactiveCocoa/RACSubject.h" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/Pods/ReactiveCocoa/ReactiveCocoa/RACScheduler.m" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/Pods/ReactiveCocoa/ReactiveCocoa/RACChannel.m" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/Pods/ReactiveCocoa/ReactiveCocoa/RACScheduler.h" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/Pods/ReactiveCocoa/ReactiveCocoa/RACUnarySequence.m" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/Pods/ReactiveCocoa/ReactiveCocoa/RACChannel.h" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/Pods/ReactiveCocoa/ReactiveCocoa/RACUnarySequence.h" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/Pods/ReactiveCocoa/ReactiveCocoa/RACMulticastConnection.m" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/Pods/ReactiveCocoa/ReactiveCocoa/RACImmediateScheduler.m" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/Pods/ReactiveCocoa/ReactiveCocoa/RACMulticastConnection.h" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/Pods/ReactiveCocoa/ReactiveCocoa/NSOrderedSet+RACSequenceAdditions.m" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/Pods/ReactiveCocoa/ReactiveCocoa/RACImmediateScheduler.h" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/Pods/ReactiveCocoa/ReactiveCocoa/RACTargetQueueScheduler.h" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/Pods/ReactiveCocoa/ReactiveCocoa/RACSubscriptingAssignmentTrampoline.m" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/Pods/ReactiveCocoa/ReactiveCocoa/UIImagePickerController+RACSignalSupport.m" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/Pods/ReactiveCocoa/ReactiveCocoa/NSOrderedSet+RACSequenceAdditions.h" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/Pods/ReactiveCocoa/ReactiveCocoa/RACPassthroughSubscriber.m" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/Pods/ReactiveCocoa/ReactiveCocoa/MKAnnotationView+RACSignalSupport.h" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/Pods/ReactiveCocoa/ReactiveCocoa/NSEnumerator+RACSequenceAdditions.m" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/Pods/ReactiveCocoa/ReactiveCocoa/RACScheduler+Subclass.h" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/Pods/ReactiveCocoa/ReactiveCocoa/RACSignal+Operations.m" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/Pods/ReactiveCocoa/ReactiveCocoa/NSArray+RACSequenceAdditions.m" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/Pods/ReactiveCocoa/ReactiveCocoa/NSEnumerator+RACSequenceAdditions.h" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/Pods/ReactiveCocoa/ReactiveCocoa/UICollectionReusableView+RACSignalSupport.h" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/Pods/ReactiveCocoa/ReactiveCocoa/RACArraySequence.h" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/Pods/ReactiveCocoa/ReactiveCocoa/UITableViewCell+RACSignalSupport.m" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/Pods/ReactiveCocoa/ReactiveCocoa/NSArray+RACSequenceAdditions.h" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/Pods/ReactiveCocoa/ReactiveCocoa/UIActionSheet+RACSignalSupport.h" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/Pods/ReactiveCocoa/ReactiveCocoa/UICollectionReusableView+RACSignalSupport.m" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/Pods/ReactiveCocoa/ReactiveCocoa/UITableViewCell+RACSignalSupport.h" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/Pods/ReactiveCocoa/ReactiveCocoa/RACQueueScheduler.h" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/Pods/ReactiveCocoa/ReactiveCocoa/NSURLConnection+RACSupport.m" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/Pods/ReactiveCocoa/ReactiveCocoa/RACSignalProvider.d" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/Pods/ReactiveCocoa/ReactiveCocoa/RACBlockTrampoline.h" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/Pods/ReactiveCocoa/ReactiveCocoa/RACStringSequence.m" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/Pods/ReactiveCocoa/ReactiveCocoa/NSUserDefaults+RACSupport.h" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/Pods/ReactiveCocoa/ReactiveCocoa/RACQueueScheduler+Subclass.h" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/Pods/ReactiveCocoa/ReactiveCocoa/RACStringSequence.h" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/Pods/ReactiveCocoa/ReactiveCocoa/RACSubscriber+Private.h" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/Pods/ReactiveCocoa/ReactiveCocoa/NSObject+RACPropertySubscribing.m" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/Pods/ReactiveCocoa/ReactiveCocoa/RACDynamicSignal.m" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/Pods/ReactiveCocoa/ReactiveCocoa/RACCommand.m" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/Pods/ReactiveCocoa/ReactiveCocoa/RACSequence.h" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/Pods/ReactiveCocoa/ReactiveCocoa/RACDynamicSignal.h" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/Pods/ReactiveCocoa/ReactiveCocoa/RACSignalSequence.m" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/Pods/ReactiveCocoa/ReactiveCocoa/RACCommand.h" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/Pods/ReactiveCocoa/ReactiveCocoa/UIStepper+RACSignalSupport.h" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/Pods/ReactiveCocoa/ReactiveCocoa/NSObject+RACDescription.m" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/Pods/ReactiveCocoa/ReactiveCocoa/NSNotificationCenter+RACSupport.m" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/Pods/ReactiveCocoa/ReactiveCocoa/UIButton+RACCommandSupport.h" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/Pods/ReactiveCocoa/ReactiveCocoa/RACEagerSequence.m" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/Pods/ReactiveCocoa/ReactiveCocoa/NSObject+RACDescription.h" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/Pods/ReactiveCocoa/ReactiveCocoa/NSNotificationCenter+RACSupport.h" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/Pods/ReactiveCocoa/ReactiveCocoa/RACKVOChannel.m" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/Pods/ReactiveCocoa/ReactiveCocoa/RACEmptySequence.m" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/Pods/ReactiveCocoa/ReactiveCocoa/RACKVOChannel.h" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/Pods/ReactiveCocoa/ReactiveCocoa/RACEmptySequence.h" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/Pods/ReactiveCocoa/ReactiveCocoa/NSObject+RACPropertySubscribing.h" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/Pods/ReactiveCocoa/ReactiveCocoa/UIBarButtonItem+RACCommandSupport.m" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/Pods/ReactiveCocoa/ReactiveCocoa/NSObject+RACLifting.m" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Pods/AFNetworking/AFNetworking/AFURLResponseSerialization.m" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Pods/AFNetworking/AFNetworking/AFURLRequestSerialization.m" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Pods/AFNetworking/AFNetworking/AFNetworkReachabilityManager.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Pods/AFNetworking/AFNetworking/AFURLSessionManager.m" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Pods/AFNetworking/AFNetworking/AFURLResponseSerialization.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Pods/AFNetworking/AFNetworking/AFNetworkReachabilityManager.m" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Pods/AFNetworking/AFNetworking/AFURLSessionManager.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Pods/AFNetworking/AFNetworking/AFHTTPSessionManager.m" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Pods/AFNetworking/AFNetworking/AFNetworking.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Pods/AFNetworking/AFNetworking/AFHTTPSessionManager.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Pods/AFNetworking/AFNetworking/AFSecurityPolicy.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Pods/AFNetworking/AFNetworking/AFSecurityPolicy.m" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Pods/AFNetworking/AFNetworking/AFURLRequestSerialization.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Pods/AFNetworking/UIKit+AFNetworking/AFNetworkActivityIndicatorManager.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Pods/AFNetworking/UIKit+AFNetworking/UIButton+AFNetworking.m" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Pods/AFNetworking/UIKit+AFNetworking/UIActivityIndicatorView+AFNetworking.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Pods/AFNetworking/UIKit+AFNetworking/AFAutoPurgingImageCache.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Pods/AFNetworking/UIKit+AFNetworking/UIWebView+AFNetworking.m" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Pods/AFNetworking/UIKit+AFNetworking/UIKit+AFNetworking.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Pods/AFNetworking/UIKit+AFNetworking/UIWebView+AFNetworking.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Pods/AFNetworking/UIKit+AFNetworking/UIRefreshControl+AFNetworking.m" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Pods/AFNetworking/UIKit+AFNetworking/UIImage+AFNetworking.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Pods/AFNetworking/UIKit+AFNetworking/AFNetworkActivityIndicatorManager.m" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Pods/AFNetworking/UIKit+AFNetworking/UIActivityIndicatorView+AFNetworking.m" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Pods/AFNetworking/UIKit+AFNetworking/UIButton+AFNetworking.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Pods/AFNetworking/UIKit+AFNetworking/UIRefreshControl+AFNetworking.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Pods/AFNetworking/UIKit+AFNetworking/AFAutoPurgingImageCache.m" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Pods/AFNetworking/UIKit+AFNetworking/UIProgressView+AFNetworking.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Pods/AFNetworking/UIKit+AFNetworking/UIImageView+AFNetworking.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Pods/AFNetworking/UIKit+AFNetworking/AFImageDownloader.m" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Pods/AFNetworking/UIKit+AFNetworking/UIImageView+AFNetworking.m" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Pods/AFNetworking/UIKit+AFNetworking/UIProgressView+AFNetworking.m" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Pods/AFNetworking/UIKit+AFNetworking/AFImageDownloader.h" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/Pods/Masonry/Masonry/MASConstraint.h" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/Pods/Masonry/Masonry/ViewController+MASAdditions.h" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/Pods/Masonry/Masonry/Masonry.h" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/Pods/Masonry/Masonry/MASConstraint+Private.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Pods/Masonry/Masonry/Masonry.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Pods/Masonry/Masonry/ViewController+MASAdditions.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Pods/Masonry/Masonry/MASCompositeConstraint.h" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/Pods/Masonry/Masonry/MASConstraintMaker.m" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/Pods/Masonry/Masonry/NSArray+MASAdditions.m" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/Pods/Masonry/Masonry/View+MASAdditions.m" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/Pods/Masonry/Masonry/MASLayoutConstraint.m" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/Pods/Masonry/Masonry/MASConstraintMaker.h" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/Pods/Masonry/Masonry/MASCompositeConstraint.m" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/Pods/Masonry/Masonry/MASCompositeConstraint.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Pods/Masonry/Masonry/View+MASAdditions.h" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/Pods/Masonry/Masonry/MASLayoutConstraint.h" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/Pods/Masonry/Masonry/MASViewConstraint.m" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/Pods/Masonry/Masonry/MASViewAttribute.m" isTestSource="false" />
@@ -504,7 +505,6 @@
       <sourceFolder url="file://$MODULE_DIR$/Pods/Masonry/Masonry/NSLayoutConstraint+MASDebugAdditions.m" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/Pods/Masonry/Masonry/MASViewAttribute.h" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/Pods/Masonry/Masonry/MASUtilities.h" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/Pods/Masonry/Masonry/View+MASAdditions.h" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/Pods/Masonry/Masonry/NSLayoutConstraint+MASDebugAdditions.h" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/Pods/Masonry/Masonry/MASConstraint.m" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/Pods/Masonry/Masonry/ViewController+MASAdditions.m" isTestSource="false" />

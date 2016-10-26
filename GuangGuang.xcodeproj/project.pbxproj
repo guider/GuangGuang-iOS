@@ -69,7 +69,6 @@
 		58B83950786DAE5206A7C00A /* settings@3x.png in Resources */ = {isa = PBXBuildFile; fileRef = 58B832FE41D8A76734CF61D6 /* settings@3x.png */; };
 		58B8397F6FF4848791AD1C12 /* MeViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 58B8377A0A5EECC6462DE7A2 /* MeViewController.m */; };
 		58B8397FD854D34CACB1092D /* navtitle_abroad_down@3x.png in Resources */ = {isa = PBXBuildFile; fileRef = 58B83C2A0B30B10130901E73 /* navtitle_abroad_down@3x.png */; };
-		58B8398A6AA6EA465BE17A04 /* BaseViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 58B83956CBDD1C049C56F876 /* BaseViewController.m */; };
 		58B839E77E140E4406EFA671 /* tabbar_home@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 58B834D02B32B9601415C79B /* tabbar_home@2x.png */; };
 		58B839F97659BB92B52C6F74 /* category@3x.png in Resources */ = {isa = PBXBuildFile; fileRef = 58B8339737415D6CF3F9D276 /* category@3x.png */; };
 		58B83A113421F6F193F0569D /* iconelectrical@3x.png in Resources */ = {isa = PBXBuildFile; fileRef = 58B83D4D91EC86CAD8792A67 /* iconelectrical@3x.png */; };
@@ -91,6 +90,7 @@
 		58B83C48B9B2ED170419A7C8 /* icontmall@3x.png in Resources */ = {isa = PBXBuildFile; fileRef = 58B8364264CDC8F0BF518F06 /* icontmall@3x.png */; };
 		58B83C81F0A694BD4B49A39E /* icontmall@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 58B83653D32628DAF5B7D5BA /* icontmall@2x.png */; };
 		58B83C95B05957433EA2FF24 /* iconsport@3x.png in Resources */ = {isa = PBXBuildFile; fileRef = 58B838531DBFF7EE9C4F3B6C /* iconsport@3x.png */; };
+		58B83CA82839A26583C31B53 /* BaseViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 58B83D7C73B6A03FB7922BBF /* BaseViewController.m */; };
 		58B83CBA498299813B09EF37 /* category@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 58B83EB63C44CBC3BA000358 /* category@2x.png */; };
 		58B83CE47FC6A826C90E46E3 /* iconstockup@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 58B83B04EC311B0B29B6D1EF /* iconstockup@2x.png */; };
 		58B83CF94BD4CBF3C84FD5B5 /* iconfood@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 58B8338AC634FA42B87E3BEF /* iconfood@2x.png */; };
@@ -292,11 +292,10 @@
 		58B8386EFFC11162D54E78C5 /* defaullt_thumb@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "defaullt_thumb@2x.png"; sourceTree = "<group>"; };
 		58B83875DE1DE91BF7FD60EC /* UIImage+Common.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = "UIImage+Common.h"; sourceTree = "<group>"; };
 		58B83894B62EA4810707AACC /* BaseCell.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = BaseCell.m; sourceTree = "<group>"; };
+		58B8392F38AB521E53AEBCCA /* BaseViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = BaseViewController.h; sourceTree = "<group>"; };
 		58B83945B2C454FD0FF2319F /* tabbar_rank_selected.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = tabbar_rank_selected.png; sourceTree = "<group>"; };
-		58B83956CBDD1C049C56F876 /* BaseViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = BaseViewController.m; sourceTree = "<group>"; };
 		58B8397AB7CA6B3AC7DF11DA /* iconfood@3x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "iconfood@3x.png"; sourceTree = "<group>"; };
 		58B839BE89207F753076B0BE /* icontravel@3x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "icontravel@3x.png"; sourceTree = "<group>"; };
-		58B839C4DCF7EE85C2C055EB /* BaseViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = BaseViewController.h; sourceTree = "<group>"; };
 		58B839FB4A57C20934F8B184 /* navtitle_abroad_down.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = navtitle_abroad_down.png; sourceTree = "<group>"; };
 		58B83A04C5879E687023ECF7 /* tabbar_home_selected@3x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "tabbar_home_selected@3x.png"; sourceTree = "<group>"; };
 		58B83A1DD5868C327FBC6BB2 /* navtitle_up@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "navtitle_up@2x.png"; sourceTree = "<group>"; };
@@ -333,6 +332,7 @@
 		58B83D4D91EC86CAD8792A67 /* iconelectrical@3x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "iconelectrical@3x.png"; sourceTree = "<group>"; };
 		58B83D598C5E8E46C19FB3A0 /* AppDelegate.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = AppDelegate.h; sourceTree = "<group>"; };
 		58B83D7729032C8378B4F7CE /* AppDelegate.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = AppDelegate.m; sourceTree = "<group>"; };
+		58B83D7C73B6A03FB7922BBF /* BaseViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = BaseViewController.m; sourceTree = "<group>"; };
 		58B83DB0C98CBA998EB95F9C /* UIImageView+QNCache.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = "UIImageView+QNCache.m"; sourceTree = "<group>"; };
 		58B83DB25CEC1DB918C4BEC3 /* UIAlertController+Common.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = "UIAlertController+Common.m"; sourceTree = "<group>"; };
 		58B83DDAC663EF240CFE9732 /* NSObject+Info.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = "NSObject+Info.h"; sourceTree = "<group>"; };
@@ -463,7 +463,6 @@
 				58B83254D6F8FE50F16DC627 /* UINavigationBar+Awesome.m */,
 				58B83512A2A077B211552B08 /* UIView+rn_Screenshot.h */,
 				58B83FB95453B1C143D7647A /* UINavigationBar+Awesome.h */,
-				58B839C4DCF7EE85C2C055EB /* BaseViewController.h */,
 				58B83A2D48C937D1E1D55305 /* UIViewController+Common.h */,
 				58B83551CDBFF85B37E51C63 /* UILabel+Common.m */,
 				58B83D2911163906B0FB5AD3 /* NSDate+Common.m */,
@@ -474,7 +473,6 @@
 				58B83693E4F71D485E212D97 /* UIAlertController+Common.h */,
 				58B83287A0D4DAD28FEF571A /* UIImage+ImageEffects.m */,
 				58B83A90640682A85D9E8567 /* UIView+Extension.h */,
-				58B83956CBDD1C049C56F876 /* BaseViewController.m */,
 				58B83DDAC663EF240CFE9732 /* NSObject+Info.h */,
 			);
 			path = category2;
@@ -641,6 +639,8 @@
 				180EB8D11D7D67E700F2D09C /* category2 */,
 				180EB8A11D7D633000F2D09C /* category */,
 				58B83A87210AAEB19785D094 /* cell */,
+				58B83D7C73B6A03FB7922BBF /* BaseViewController.m */,
+				58B8392F38AB521E53AEBCCA /* BaseViewController.h */,
 			);
 			path = base;
 			sourceTree = "<group>";
@@ -842,6 +842,7 @@
 				TargetAttributes = {
 					183D93CE1D7AAB6C00E3A770 = {
 						CreatedOnToolsVersion = 7.3.1;
+						DevelopmentTeam = 3459Y9MM64;
 					};
 					183D93EA1D7AAB6C00E3A770 = {
 						CreatedOnToolsVersion = 7.3.1;
@@ -1073,8 +1074,8 @@
 				58B83217DDBA1AE891DFFAFA /* TModel.m in Sources */,
 				58B83BAC8AB84DABFF5E1759 /* HomeCell.m in Sources */,
 				58B83E17FD0FBAB4CAE58018 /* BaseCell.m in Sources */,
-				58B8398A6AA6EA465BE17A04 /* BaseViewController.m in Sources */,
 				58B83FD1DB2005235D57390B /* HttpManager.m in Sources */,
+				58B83CA82839A26583C31B53 /* BaseViewController.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -1197,6 +1198,7 @@
 			baseConfigurationReference = CEBE7D8DC4E05DB252AEB660 /* Pods-GuangGuang.debug.xcconfig */;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				CODE_SIGN_IDENTITY = "iPhone Developer";
 				INFOPLIST_FILE = GuangGuang/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = com.yanyuanquan.broker.ios.GuangGuang;
@@ -1210,6 +1212,7 @@
 			baseConfigurationReference = 39B4993B830BA00B3526B675 /* Pods-GuangGuang.release.xcconfig */;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				CODE_SIGN_IDENTITY = "iPhone Developer";
 				INFOPLIST_FILE = GuangGuang/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = com.yanyuanquan.broker.ios.GuangGuang;
